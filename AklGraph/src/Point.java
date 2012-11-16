@@ -47,7 +47,7 @@ public class Point {
 		
 		xCor = this.x + this.offsetX;
 		yCor = this.offsetY - (this.y);
-		adjustX = 0;
+		adjustX = 70;
 		adjustY = 10;
 		this.option = option;
 	
@@ -72,7 +72,7 @@ public class Point {
 		
 		xCor = this.x + this.offsetX;
 		yCor = this.offsetY - (this.y);
-		adjustX = 0;
+		adjustX = 70;
 		this.opt = option;
 	
 	}
@@ -95,7 +95,7 @@ public class Point {
 					g.setColor(Color.lightGray);
 					g.fillRoundRect(xPos - 2, yCor - 50, 120, 40, 10, 10);
 					
-					g.setColor(Color.red);
+					g.setColor(Color.blue);
 					g.drawChars(current.toCharArray(), 0, current.length(), xPos + 2, yCor - 35);
 					g.drawChars(time.toCharArray(), 0, time.length(), xPos + 2, yCor - 15);
 				

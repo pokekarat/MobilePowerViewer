@@ -11,7 +11,7 @@ public class Line {
     {
         this.p1 = p1;
         this.p2 = p2;
-        adjustX = 0;
+        adjustX = 70;
     }
     
     public void paint(Graphics g) 
