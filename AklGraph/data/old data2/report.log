@@ -1,0 +1,28 @@
+2012-09-10 15:27:33	[Test group]:aklTest
+2012-09-10 15:27:33	Start group test for round 1.
+2012-09-10 15:27:33	[Test Case]:youtube
+2012-09-10 15:27:33	Start test case in 1-th
+2012-09-10 15:27:33	1. Use shell to launch Youtube application.
+2012-09-10 15:27:33	am start -n com.google.android.youtube/com.google.android.youtube.HomeActivity
+2012-09-10 15:27:37	input keyevent 19
+2012-09-10 15:27:39	input keyevent 19
+2012-09-10 15:27:40	input keyevent 22
+2012-09-10 15:27:42	input keyevent 66
+2012-09-10 15:27:48	input text big
+2012-09-10 15:27:49	input keyevent 62
+2012-09-10 15:27:50	input text buck
+2012-09-10 15:27:51	input keyevent 62
+2012-09-10 15:27:52	input text bunny
+2012-09-10 15:27:54	input keyevent 62
+2012-09-10 15:27:55	input text [HD]
+2012-09-10 15:27:56	input keyevent 66
+2012-09-10 15:28:02	2. Start to play youtube clip:big buck bunny [HD]
+2012-09-10 15:28:02	input keyevent 20
+2012-09-10 15:28:03	input keyevent 66
+2012-09-10 15:28:33	3. Back to home screen.
+2012-09-10 15:28:33	input keyevent 04
+2012-09-10 15:28:34	input keyevent 04
+2012-09-10 15:28:35	input keyevent 04
+2012-09-10 15:28:35	input keyevent 03
+2012-09-10 15:28:36	End test case
+2012-09-10 15:28:37	End group test for round 1.

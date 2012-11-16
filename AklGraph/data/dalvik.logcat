@@ -1,0 +1,381 @@
+09-10 15:27:33.142 D/AndroidRuntime( 2463): Calling main entry com.android.commands.am.Am
+09-10 15:27:33.154 D/MemoryLogService( 1825): dataUri: memScan
+09-10 15:27:33.154 D/TM      ( 1825): 359854080
+09-10 15:27:33.158 D/HelloActivityActivity( 1825): Threshold 39352320
+09-10 15:27:33.158 D/importance( 1825): 100
+09-10 15:27:33.158 D/AndroidRuntime( 2463): Shutting down VM
+09-10 15:27:33.173 D/dalvikvm( 2463): GC_CONCURRENT freed 100K, 82% free 485K/2560K, paused 0ms+1ms, total 3ms
+09-10 15:27:33.177 I/AndroidRuntime( 2463): NOTE: attach of thread 'Binder_2' failed
+09-10 15:27:33.193 D/importance( 1825): 100
+09-10 15:27:33.259 D/importance( 1825): 100
+09-10 15:27:33.290 D/importance( 1825): 130
+09-10 15:27:33.322 D/importance( 1825): 200
+09-10 15:27:33.357 D/importance( 1825): 100
+09-10 15:27:33.392 D/KEYLOGGER( 2368): // 1. Use shell to launch Youtube application.
+09-10 15:27:33.454 D/importance( 1825): 400
+09-10 15:27:33.521 D/importance( 1825): 400
+09-10 15:27:33.583 D/importance( 1825): 400
+09-10 15:27:33.615 D/AndroidRuntime( 2474): 
+09-10 15:27:33.615 D/AndroidRuntime( 2474): >>>>>> AndroidRuntime START com.android.internal.os.RuntimeInit <<<<<<
+09-10 15:27:33.615 D/AndroidRuntime( 2474): CheckJNI is OFF
+09-10 15:27:33.630 D/dalvikvm( 2474): Trying to load lib libjavacore.so 0x0
+09-10 15:27:33.634 D/dalvikvm( 2474): Added shared lib libjavacore.so 0x0
+09-10 15:27:33.638 D/importance( 1825): 400
+09-10 15:27:33.654 D/dalvikvm( 2474): Trying to load lib libnativehelper.so 0x0
+09-10 15:27:33.654 D/dalvikvm( 2474): Added shared lib libnativehelper.so 0x0
+09-10 15:27:33.701 D/importance( 1825): 300
+09-10 15:27:33.747 D/importance( 1825): 300
+09-10 15:27:33.829 D/importance( 1825): 400
+09-10 15:27:33.954 D/importance( 1825): 400
+09-19 16:05:46.000 D/importance( 1349): 200
+09-19 16:05:46.035 D/importance( 1349): 100
+09-19 16:05:46.093 D/importance( 1349): 400
+09-19 16:05:46.125 D/importance( 1349): 400
+09-19 16:05:46.160 D/importance( 1349): 400
+09-19 16:05:46.187 D/importance( 1349): 400
+09-19 16:05:46.218 D/importance( 1349): 300
+09-19 16:05:46.230 I/ActivityManager(  246): START {act=android.intent.action.MAIN cat=[android.intent.category.HOME] flg=0x10200000 cmp=com.android.launcher/com.android.launcher2.Launcher u=0} from pid 246
+09-19 16:05:46.273 D/importance( 1349): 400
+09-19 16:05:46.320 D/importance( 1349): 400
+09-19 16:05:46.363 D/importance( 1349): 100
+09-19 16:05:46.457 D/importance( 1349): 400
+09-19 16:05:46.500 D/importance( 1349): 300
+09-19 16:05:46.539 D/importance( 1349): 400
+09-19 16:05:46.585 D/importance( 1349): 400
+09-19 16:05:46.632 D/importance( 1349): 400
+09-19 16:05:46.679 D/importance( 1349): 400
+09-19 16:05:46.718 D/importance( 1349): 300
+09-19 16:05:46.765 D/importance( 1349): 100
+09-19 16:05:46.816 D/HelloActivityActivity( 1349): , Tracing process name/id : com.android.launcher/434, whose used Pss/Dirty memory usage(kb): 26289/19740
+09-19 16:05:46.820 D/HelloActivityActivity( 1349): , Tracing process name/id : com.android.systemui/324, whose used Pss/Dirty memory usage(kb): 18258/14356
+09-19 16:05:46.824 D/HelloActivityActivity( 1349): , Tracing process name/id : system/246, whose used Pss/Dirty memory usage(kb): 18138/15084
+09-19 16:05:46.832 D/HelloActivityActivity( 1349): , Tracing process name/id : com.android.contacts/1544, whose used Pss/Dirty memory usage(kb): 8730/6988
+09-19 16:05:46.835 D/HelloActivityActivity( 1349): , Tracing process name/id : android.process.acore/1565, whose used Pss/Dirty memory usage(kb): 8016/5208
+09-19 16:05:46.835 D/HelloActivityActivity( 1349): , Tracing process name/id : com.google.android.apps.plus/1174, whose used Pss/Dirty memory usage(kb): 7589/6416
+09-19 16:05:46.839 D/HelloActivityActivity( 1349): , Tracing process name/id : com.google.android.youtube/1119, whose used Pss/Dirty memory usage(kb): 6380/4880
+09-19 16:05:46.843 D/HelloActivityActivity( 1349): , Tracing process name/id : com.android.vending/653, whose used Pss/Dirty memory usage(kb): 6017/4392
+09-19 16:05:46.843 D/HelloActivityActivity( 1349): , Tracing process name/id : com.google.process.gapps/543, whose used Pss/Dirty memory usage(kb): 5915/4824
+09-19 16:05:46.851 D/HelloActivityActivity( 1349): , Tracing process name/id : com.google.android.apps.maps:NetworkLocationService/616, whose used Pss/Dirty memory usage(kb): 5837/4868
+09-19 16:05:46.855 D/HelloActivityActivity( 1349): , Tracing process name/id : com.google.android.gallery3d/1895, whose used Pss/Dirty memory usage(kb): 5650/3264
+09-19 16:05:46.855 D/HelloActivityActivity( 1349): , Tracing process name/id : com.noshufou.android.su/1719, whose used Pss/Dirty memory usage(kb): 4939/3120
+09-19 16:05:46.859 D/HelloActivityActivity( 1349): , Tracing process name/id : android.process.media/1133, whose used Pss/Dirty memory usage(kb): 4917/3712
+09-19 16:05:46.859 D/HelloActivityActivity( 1349): , Tracing process name/id : com.google.android.music:main/1046, whose used Pss/Dirty memory usage(kb): 4902/3816
+09-19 16:05:46.867 D/HelloActivityActivity( 1349): , Tracing process name/id : com.google.android.apps.maps/1470, whose used Pss/Dirty memory usage(kb): 4591/3448
+09-19 16:05:46.871 D/HelloActivityActivity( 1349): , Tracing process name/id : com.google.android.inputmethod.latin/392, whose used Pss/Dirty memory usage(kb): 4397/3272
+09-19 16:05:46.871 D/HelloActivityActivity( 1349): , Tracing process name/id : com.android.phone/409, whose used Pss/Dirty memory usage(kb): 4225/3188
+09-19 16:05:46.871 D/HelloActivityActivity( 1349): , Tracing process name/id : com.google.android.apps.uploader/1106, whose used Pss/Dirty memory usage(kb): 3832/2832
+09-19 16:05:46.875 D/HelloActivityActivity( 1349): , Tracing process name/id : com.google.android.gsf.login/1775, whose used Pss/Dirty memory usage(kb): 3707/1972
+09-19 16:05:46.875 D/HelloActivityActivity( 1349): , Tracing process name/id : com.android.service.test/1843, whose used Pss/Dirty memory usage(kb): 3181/1848
+09-19 16:05:46.878 D/HelloActivityActivity( 1349): , Tracing process name/id : com.android.nfc/417, whose used Pss/Dirty memory usage(kb): 3180/2204
+09-19 16:05:46.878 D/HelloActivityActivity( 1349): , Tracing process name/id : com.android.ebl.akl.service.memoryLog/1349, whose used Pss/Dirty memory usage(kb): 2883/2036
+09-19 16:05:46.878 D/HelloActivityActivity( 1349): !tracing
+09-19 16:05:46.878 D/HelloActivityActivity( 1349): , Total_PSS:161573, Total_USS:121468
+09-19 16:05:46.886 D/dalvikvm( 1349): WAIT_FOR_CONCURRENT_GC blocked 0ms
+09-19 16:05:46.914 D/dalvikvm( 1349): GC_EXPLICIT freed 327K, 7% free 7992K/8519K, paused 2ms+2ms, total 30ms
+09-19 16:05:49.726 D/KEYLOGGER( 1828): // 1. Launch Angry Bird
+09-19 16:05:49.777 D/AudioHardware(   89): AudioHardware pcm playback is exiting standby.
+09-19 16:05:49.777 D/AudioHardware(   89): openPcmOut_l() mPcmOpenCnt: 0
+09-19 16:05:49.777 I/ActivityManager(  246): START {act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 pkg=com.rovio.angrybirdsrio cmp=com.rovio.angrybirdsrio/com.rovio.ka3d.App bnds=[0,105][120,255] u=0} from pid 434
+09-19 16:05:49.875 I/ActivityManager(  246): Start proc com.rovio.angrybirdsrio for activity com.rovio.angrybirdsrio/com.rovio.ka3d.App: pid=1954 uid=10065 gids={1015, 3003, 1028}
+09-19 16:05:49.902 I/dalvikvm( 1954): Turning on JNI app bug workarounds for target SDK version 13...
+09-19 16:05:49.910 I/InputReader(  246): Reconfiguring input devices.  changes=0x00000004
+09-19 16:05:49.910 I/InputReader(  246): Device reconfigured: id=6, name='mxt224_ts_input', surface size is now 480x800, mode is 1
+09-19 16:05:49.945 I/ActivityManager(  246): Config changed: {1.0 0mcc0mnc en_US sw320dp w533dp h294dp nrml long land finger -keyb/v/h -nav/h s.12}
+09-19 16:05:50.109 I/ActivityThread( 1954): Pub com.rovio.AB_RIO.AdContentProvider: com.greystripe.android.sdk.AdContentProvider
+09-19 16:05:50.148 D/dalvikvm( 1954): Trying to load lib /data/data/com.rovio.angrybirdsrio/lib/libangrybirds.so 0x41f8b910
+09-19 16:05:50.164 D/dalvikvm( 1954): Added shared lib /data/data/com.rovio.angrybirdsrio/lib/libangrybirds.so 0x41f8b910
+09-19 16:05:50.164 D/dalvikvm( 1954): No JNI_OnLoad found in /data/data/com.rovio.angrybirdsrio/lib/libangrybirds.so 0x41f8b910, skipping init
+09-19 16:05:50.214 V/PhoneStatusBar(  324): setLightsOn(true)
+09-19 16:05:50.242 D/libEGL  ( 1954): loaded /vendor/lib/egl/libEGL_POWERVR_SGX540_120.so
+09-19 16:05:50.253 D/libEGL  ( 1954): loaded /vendor/lib/egl/libGLESv1_CM_POWERVR_SGX540_120.so
+09-19 16:05:50.261 D/libEGL  ( 1954): loaded /vendor/lib/egl/libGLESv2_POWERVR_SGX540_120.so
+09-19 16:05:50.378 D/dalvikvm( 1954): GC_CONCURRENT freed 207K, 4% free 8262K/8519K, paused 16ms+4ms, total 53ms
+09-19 16:05:50.378 D/dalvikvm( 1954): WAIT_FOR_CONCURRENT_GC blocked 14ms
+09-19 16:05:50.714 D/FlurryAgent( 1954): Initializing Flurry session
+09-19 16:05:50.714 D/FlurryAgent( 1954): New session
+09-19 16:05:50.714 D/FlurryAgent( 1954): Event count incremented: Customer String
+09-19 16:05:50.714 D/FlurryAgent( 1954): Logged event: Customer String
+09-19 16:05:50.718 W/Settings( 1954): Setting android_id has moved from android.provider.Settings.System to android.provider.Settings.Secure, returning read-only value.
+09-19 16:05:50.718 I/FlurryAgent( 1954): loading persistent data: /data/data/com.rovio.angrybirdsrio/files/.flurryagent.fa7dbcf
+09-19 16:05:50.718 D/FlurryAgent( 1954): Loading API key: ****************PAXS
+09-19 16:05:50.718 D/FlurryAgent( 1954): Loading session reports
+09-19 16:05:50.718 D/FlurryAgent( 1954): Session report added: 1
+09-19 16:05:50.718 D/FlurryAgent( 1954): Session report added: 2
+09-19 16:05:50.718 D/FlurryAgent( 1954): Session report added: 3
+09-19 16:05:50.718 D/FlurryAgent( 1954): Session report added: 4
+09-19 16:05:50.718 D/FlurryAgent( 1954): Session report added: 5
+09-19 16:05:50.718 D/FlurryAgent( 1954): Session report added: 6
+09-19 16:05:50.718 D/FlurryAgent( 1954): Session report added: 7
+09-19 16:05:50.718 D/FlurryAgent( 1954): Session report added: 8
+09-19 16:05:50.718 D/FlurryAgent( 1954): Session report added: 9
+09-19 16:05:50.722 D/FlurryAgent( 1954): Session report added: 10
+09-19 16:05:50.722 D/FlurryAgent( 1954): Session report added: 11
+09-19 16:05:50.722 D/FlurryAgent( 1954): Session report added: 12
+09-19 16:05:50.722 D/FlurryAgent( 1954): Session report added: 13
+09-19 16:05:50.722 D/FlurryAgent( 1954): Session report added: 14
+09-19 16:05:50.722 D/FlurryAgent( 1954): Session report added: 15
+09-19 16:05:50.722 D/FlurryAgent( 1954): Session report added: 16
+09-19 16:05:50.722 D/FlurryAgent( 1954): Persistent file loaded
+09-19 16:05:50.730 I/LocationManagerService(  246): request network (pid 1954) 0 0
+09-19 16:05:50.734 D/FlurryAgent( 1954): generating report
+09-19 16:05:50.734 D/FlurryAgent( 1954): Sending report to: http://data.flurry.com/aap.do
+09-19 16:05:50.738 D/dalvikvm( 1954): GC_CONCURRENT freed 418K, 6% free 8337K/8839K, paused 12ms+10ms, total 48ms
+09-19 16:05:50.738 D/dalvikvm( 1954): WAIT_FOR_CONCURRENT_GC blocked 17ms
+09-19 16:05:50.753 D/dalvikvm( 1954): GC_FOR_ALLOC freed 28K, 7% free 8308K/8839K, paused 14ms, total 14ms
+09-19 16:05:50.753 I/dalvikvm-heap( 1954): Grow heap (frag case) to 8.448MB for 300100-byte allocation
+09-19 16:05:50.777 D/dalvikvm( 1954): GC_FOR_ALLOC freed 0K, 7% free 8601K/9159K, paused 23ms, total 23ms
+09-19 16:05:50.808 D/FlurryAgent( 1954): Sending report exception: Unable to resolve host "data.flurry.com": No address associated with hostname
+09-19 16:05:50.835 D/dalvikvm( 1954): GC_FOR_ALLOC freed 608K, 10% free 8314K/9159K, paused 13ms, total 13ms
+09-19 16:05:50.941 I/Choreographer( 1954): Skipped 39 frames!  The application may be doing too much work on its main thread.
+09-19 16:05:51.000 I/ActivityManager(  246): Displayed com.rovio.angrybirdsrio/com.rovio.ka3d.App: +1s174ms
+09-19 16:05:51.023 I/Logger  ( 1954): Log level has been set to Logger.NONE_LEVEL
+09-19 16:05:51.085 D/dalvikvm( 1954): GC_CONCURRENT freed 440K, 9% free 8353K/9159K, paused 21ms+21ms, total 95ms
+09-19 16:05:51.167 E/ActivityThread( 1954): Failed to find provider info for com.burstly.debug.BurstlyDebugContentProvider
+09-19 16:05:51.347 D/dalvikvm( 1954): GC_CONCURRENT freed 298K, 7% free 8539K/9159K, paused 19ms+17ms, total 93ms
+09-19 16:05:51.546 D/dalvikvm( 1954): GC_CONCURRENT freed 325K, 7% free 8608K/9159K, paused 13ms+15ms, total 48ms
+09-19 16:05:51.667 D/dalvikvm( 1954): GC_CONCURRENT freed 362K, 6% free 8685K/9159K, paused 13ms+12ms, total 44ms
+09-19 16:05:51.718 E/HttpRequestHelper( 1954): Exception from HttpClient.execute.
+09-19 16:05:51.718 E/EventApiSender( 1954): Event API post failed
+09-19 16:05:51.718 W/SocketClient(   83): write error (Broken pipe)
+09-19 16:05:53.031 D/dalvikvm(  246): WAIT_FOR_CONCURRENT_GC blocked 1ms
+09-19 16:05:53.164 D/dalvikvm(  246): GC_EXPLICIT freed 885K, 27% free 13427K/18247K, paused 34ms+11ms, total 132ms
+09-19 16:05:55.488 D/dalvikvm( 1954): GC_FOR_ALLOC freed 155K, 6% free 8692K/9159K, paused 46ms, total 46ms
+09-19 16:05:55.488 I/dalvikvm-heap( 1954): Grow heap (frag case) to 8.825MB for 302984-byte allocation
+09-19 16:05:55.578 D/dalvikvm( 1954): GC_FOR_ALLOC freed 297K, 9% free 8690K/9479K, paused 16ms, total 16ms
+09-19 16:05:55.644 D/dalvikvm( 1954): GC_CONCURRENT freed 357K, 8% free 8763K/9479K, paused 11ms+5ms, total 44ms
+09-19 16:05:55.718 D/dalvikvm( 1954): GC_FOR_ALLOC freed 294K, 9% free 8692K/9479K, paused 16ms, total 17ms
+09-19 16:05:55.761 D/dalvikvm( 1954): GC_CONCURRENT freed <1K, 4% free 9110K/9479K, paused 12ms+6ms, total 40ms
+09-19 16:05:55.875 D/dalvikvm( 1954): GC_FOR_ALLOC freed 421K, 9% free 8691K/9479K, paused 15ms, total 15ms
+09-19 16:05:55.878 I/dalvikvm-heap( 1954): Grow heap (frag case) to 9.251MB for 749936-byte allocation
+09-19 16:05:55.914 D/dalvikvm( 1954): GC_CONCURRENT freed <1K, 9% free 9423K/10247K, paused 12ms+2ms, total 38ms
+09-19 16:05:55.964 D/dalvikvm( 1954): GC_FOR_ALLOC freed 735K, 16% free 8691K/10247K, paused 16ms, total 17ms
+09-19 16:05:55.964 I/dalvikvm-heap( 1954): Grow heap (frag case) to 9.316MB for 817904-byte allocation
+09-19 16:05:56.007 D/dalvikvm( 1954): GC_CONCURRENT freed <1K, 8% free 9490K/10247K, paused 12ms+5ms, total 42ms
+09-19 16:05:56.046 D/dalvikvm( 1954): GC_FOR_ALLOC freed 801K, 16% free 8691K/10247K, paused 16ms, total 16ms
+09-19 16:05:56.046 I/dalvikvm-heap( 1954): Grow heap (frag case) to 9.050MB for 539643-byte allocation
+09-19 16:05:56.078 D/dalvikvm( 1954): GC_CONCURRENT freed <1K, 11% free 9218K/10247K, paused 13ms+3ms, total 31ms
+09-19 16:05:56.253 D/dalvikvm( 1954): GC_FOR_ALLOC freed 599K, 16% free 8702K/10247K, paused 19ms, total 19ms
+09-19 16:05:56.257 I/dalvikvm-heap( 1954): Grow heap (frag case) to 9.546MB for 1048592-byte allocation
+09-19 16:05:56.285 D/dalvikvm( 1954): GC_FOR_ALLOC freed <1K, 6% free 9726K/10247K, paused 28ms, total 28ms
+09-19 16:05:56.328 D/dalvikvm( 1954): GC_CONCURRENT freed 83K, 6% free 9726K/10247K, paused 13ms+3ms, total 41ms
+09-19 16:05:56.328 D/dalvikvm( 1954): WAIT_FOR_CONCURRENT_GC blocked 29ms
+09-19 16:05:56.343 D/dalvikvm( 1954): GC_FOR_ALLOC freed 1K, 6% free 9725K/10247K, paused 16ms, total 16ms
+09-19 16:05:56.343 I/dalvikvm-heap( 1954): Grow heap (frag case) to 10.045MB for 524304-byte allocation
+09-19 16:05:56.386 D/dalvikvm( 1954): GC_FOR_ALLOC freed 0K, 6% free 10237K/10823K, paused 42ms, total 42ms
+09-19 16:05:56.449 D/dalvikvm( 1954): GC_CONCURRENT freed <1K, 6% free 10236K/10823K, paused 12ms+15ms, total 63ms
+09-19 16:05:56.476 D/dalvikvm( 1954): GC_FOR_ALLOC freed <1K, 6% free 10236K/10823K, paused 17ms, total 17ms
+09-19 16:05:56.480 I/dalvikvm-heap( 1954): Grow heap (frag case) to 12.051MB for 2104280-byte allocation
+09-19 16:05:56.511 D/dalvikvm( 1954): GC_CONCURRENT freed 1024K, 13% free 11267K/12935K, paused 13ms+2ms, total 32ms
+09-19 16:05:56.511 D/dalvikvm( 1954): WAIT_FOR_CONCURRENT_GC blocked 11ms
+09-19 16:05:56.527 D/dalvikvm( 1954): GC_FOR_ALLOC freed 0K, 13% free 11267K/12935K, paused 16ms, total 16ms
+09-19 16:05:56.531 I/dalvikvm-heap( 1954): Grow heap (frag case) to 12.144MB for 1146142-byte allocation
+09-19 16:05:56.574 D/dalvikvm( 1954): GC_CONCURRENT freed 0K, 13% free 12386K/14087K, paused 12ms+2ms, total 43ms
+09-19 16:05:56.652 D/dalvikvm( 1954): GC_FOR_ALLOC freed 4440K, 39% free 8701K/14087K, paused 16ms, total 17ms
+09-19 16:05:56.652 I/dalvikvm-heap( 1954): Grow heap (frag case) to 9.545MB for 1048592-byte allocation
+09-19 16:05:56.679 D/dalvikvm( 1954): GC_CONCURRENT freed <1K, 31% free 9724K/14087K, paused 12ms+2ms, total 28ms
+09-19 16:05:56.679 D/dalvikvm( 1954): WAIT_FOR_CONCURRENT_GC blocked 12ms
+09-19 16:05:56.722 D/dalvikvm( 1954): GC_FOR_ALLOC freed 0K, 28% free 10236K/14087K, paused 16ms, total 16ms
+09-19 16:05:56.722 I/dalvikvm-heap( 1954): Grow heap (frag case) to 12.047MB for 2099680-byte allocation
+09-19 16:05:56.777 D/dalvikvm( 1954): GC_CONCURRENT freed 1024K, 21% free 11263K/14087K, paused 12ms+15ms, total 53ms
+09-19 16:05:56.800 D/dalvikvm( 1954): GC_FOR_ALLOC freed 0K, 21% free 11263K/14087K, paused 16ms, total 16ms
+09-19 16:05:56.800 I/dalvikvm-heap( 1954): Grow heap (frag case) to 12.703MB for 1735516-byte allocation
+09-19 16:05:56.843 D/dalvikvm( 1954): GC_CONCURRENT freed 0K, 19% free 12958K/15815K, paused 12ms+3ms, total 44ms
+09-19 16:05:56.945 D/dalvikvm( 1954): GC_CONCURRENT freed 4264K, 36% free 10237K/15815K, paused 12ms+13ms, total 56ms
+09-19 16:05:56.972 D/dalvikvm( 1954): GC_FOR_ALLOC freed <1K, 36% free 10236K/15815K, paused 18ms, total 18ms
+09-19 16:05:56.972 I/dalvikvm-heap( 1954): Grow heap (frag case) to 12.046MB for 2098768-byte allocation
+09-19 16:05:57.011 D/dalvikvm( 1954): GC_CONCURRENT freed 1024K, 29% free 11262K/15815K, paused 12ms+3ms, total 35ms
+09-19 16:05:57.011 D/dalvikvm( 1954): WAIT_FOR_CONCURRENT_GC blocked 10ms
+09-19 16:05:57.027 D/dalvikvm( 1954): GC_FOR_ALLOC freed 0K, 29% free 11262K/15815K, paused 17ms, total 17ms
+09-19 16:05:57.027 I/dalvikvm-heap( 1954): Grow heap (frag case) to 12.379MB for 1398420-byte allocation
+09-19 16:05:57.078 D/dalvikvm( 1954): GC_CONCURRENT freed 0K, 21% free 12628K/15815K, paused 12ms+2ms, total 48ms
+09-19 16:05:57.187 D/dalvikvm( 1954): GC_FOR_ALLOC freed 5137K, 45% free 8699K/15815K, paused 17ms, total 18ms
+09-19 16:05:57.234 D/dalvikvm( 1954): GC_CONCURRENT freed 383K, 45% free 8704K/15815K, paused 12ms+2ms, total 30ms
+09-19 16:05:57.234 D/dalvikvm( 1954): WAIT_FOR_CONCURRENT_GC blocked 13ms
+09-19 16:05:57.250 D/dalvikvm( 1954): GC_FOR_ALLOC freed 3K, 45% free 8700K/15815K, paused 16ms, total 16ms
+09-19 16:05:57.250 I/dalvikvm-heap( 1954): Grow heap (frag case) to 9.544MB for 1048592-byte allocation
+09-19 16:05:57.285 D/dalvikvm( 1954): GC_CONCURRENT freed <1K, 39% free 9724K/15815K, paused 12ms+3ms, total 33ms
+09-19 16:05:57.285 D/dalvikvm( 1954): WAIT_FOR_CONCURRENT_GC blocked 18ms
+09-19 16:05:57.320 D/dalvikvm( 1954): GC_FOR_ALLOC freed 0K, 36% free 10236K/15815K, paused 16ms, total 16ms
+09-19 16:05:57.320 I/dalvikvm-heap( 1954): Grow heap (frag case) to 12.046MB for 2098958-byte allocation
+09-19 16:05:57.355 D/dalvikvm( 1954): GC_CONCURRENT freed 1024K, 29% free 11262K/15815K, paused 12ms+2ms, total 32ms
+09-19 16:05:57.355 D/dalvikvm( 1954): WAIT_FOR_CONCURRENT_GC blocked 8ms
+09-19 16:05:57.371 D/dalvikvm( 1954): GC_FOR_ALLOC freed 0K, 29% free 11262K/15815K, paused 17ms, total 17ms
+09-19 16:05:57.371 I/dalvikvm-heap( 1954): Grow heap (frag case) to 12.250MB for 1261508-byte allocation
+09-19 16:05:57.429 D/dalvikvm( 1954): GC_CONCURRENT freed 0K, 22% free 12494K/15815K, paused 12ms+19ms, total 56ms
+09-19 16:05:57.597 D/dalvikvm( 1954): GC_CONCURRENT freed 5281K, 45% free 8720K/15815K, paused 13ms+2ms, total 45ms
+09-19 16:05:57.597 D/dalvikvm( 1954): WAIT_FOR_CONCURRENT_GC blocked 16ms
+09-19 16:05:57.656 D/dalvikvm( 1954): GC_CONCURRENT freed 474K, 45% free 8744K/15815K, paused 12ms+3ms, total 44ms
+09-19 16:05:57.656 D/dalvikvm( 1954): WAIT_FOR_CONCURRENT_GC blocked 16ms
+09-19 16:05:57.738 D/dalvikvm( 1954): GC_CONCURRENT freed 524K, 45% free 8723K/15815K, paused 13ms+3ms, total 41ms
+09-19 16:05:57.738 D/dalvikvm( 1954): WAIT_FOR_CONCURRENT_GC blocked 13ms
+09-19 16:05:58.015 D/dalvikvm( 1954): GC_CONCURRENT freed 510K, 45% free 8723K/15815K, paused 11ms+3ms, total 42ms
+09-19 16:05:58.015 D/dalvikvm( 1954): WAIT_FOR_CONCURRENT_GC blocked 9ms
+09-19 16:05:58.085 D/dalvikvm( 1954): GC_CONCURRENT freed 435K, 45% free 8764K/15815K, paused 12ms+2ms, total 39ms
+09-19 16:05:58.085 D/dalvikvm( 1954): WAIT_FOR_CONCURRENT_GC blocked 11ms
+09-19 16:05:58.144 D/dalvikvm( 1954): GC_CONCURRENT freed 516K, 45% free 8753K/15815K, paused 11ms+5ms, total 36ms
+09-19 16:05:58.144 D/dalvikvm( 1954): WAIT_FOR_CONCURRENT_GC blocked 2ms
+09-19 16:05:58.203 D/dalvikvm( 1954): GC_CONCURRENT freed 510K, 45% free 8753K/15815K, paused 12ms+3ms, total 39ms
+09-19 16:05:58.203 D/dalvikvm( 1954): WAIT_FOR_CONCURRENT_GC blocked 11ms
+09-19 16:05:58.261 D/dalvikvm( 1954): GC_CONCURRENT freed 492K, 45% free 8763K/15815K, paused 12ms+3ms, total 40ms
+09-19 16:05:58.261 D/dalvikvm( 1954): WAIT_FOR_CONCURRENT_GC blocked 11ms
+09-19 16:05:58.339 D/dalvikvm( 1954): GC_CONCURRENT freed 538K, 45% free 8719K/15815K, paused 12ms+2ms, total 39ms
+09-19 16:05:58.339 D/dalvikvm( 1954): WAIT_FOR_CONCURRENT_GC blocked 13ms
+09-19 16:05:58.410 D/dalvikvm( 1954): GC_CONCURRENT freed 516K, 45% free 8709K/15815K, paused 12ms+3ms, total 39ms
+09-19 16:05:58.410 D/dalvikvm( 1954): WAIT_FOR_CONCURRENT_GC blocked 14ms
+09-19 16:05:58.472 D/dalvikvm( 1954): GC_CONCURRENT freed 491K, 45% free 8726K/15815K, paused 13ms+3ms, total 42ms
+09-19 16:05:58.472 D/dalvikvm( 1954): WAIT_FOR_CONCURRENT_GC blocked 12ms
+09-19 16:05:58.523 D/dalvikvm( 1954): GC_CONCURRENT freed 429K, 45% free 8739K/15815K, paused 13ms+3ms, total 36ms
+09-19 16:05:58.523 D/dalvikvm( 1954): WAIT_FOR_CONCURRENT_GC blocked 15ms
+09-19 16:05:58.585 D/dalvikvm( 1954): GC_CONCURRENT freed 475K, 45% free 8747K/15815K, paused 12ms+3ms, total 38ms
+09-19 16:05:58.585 D/dalvikvm( 1954): WAIT_FOR_CONCURRENT_GC blocked 13ms
+09-19 16:05:58.781 D/dalvikvm( 1954): GC_FOR_ALLOC freed 281K, 45% free 8701K/15815K, paused 16ms, total 17ms
+09-19 16:05:58.781 I/dalvikvm-heap( 1954): Grow heap (frag case) to 9.545MB for 1048592-byte allocation
+09-19 16:05:58.812 D/dalvikvm( 1954): GC_CONCURRENT freed <1K, 39% free 9724K/15815K, paused 12ms+2ms, total 28ms
+09-19 16:05:58.812 D/dalvikvm( 1954): WAIT_FOR_CONCURRENT_GC blocked 13ms
+09-19 16:05:58.921 D/dalvikvm( 1954): GC_FOR_ALLOC freed 0K, 36% free 10236K/15815K, paused 17ms, total 17ms
+09-19 16:05:58.921 I/dalvikvm-heap( 1954): Grow heap (frag case) to 12.045MB for 2097424-byte allocation
+09-19 16:05:58.980 D/dalvikvm( 1954): GC_CONCURRENT freed 1024K, 29% free 11261K/15815K, paused 12ms+20ms, total 56ms
+09-19 16:05:59.039 D/dalvikvm( 1954): GC_FOR_ALLOC freed 0K, 29% free 11261K/15815K, paused 17ms, total 17ms
+09-19 16:05:59.039 I/dalvikvm-heap( 1954): Grow heap (frag case) to 12.637MB for 1669552-byte allocation
+09-19 16:05:59.082 D/dalvikvm( 1954): GC_CONCURRENT freed 0K, 19% free 12891K/15815K, paused 13ms+4ms, total 42ms
+09-19 16:05:59.214 D/dalvikvm( 1954): GC_CONCURRENT freed 5680K, 45% free 8777K/15815K, paused 12ms+2ms, total 45ms
+09-19 16:05:59.281 D/FlurryAgent( 1954): Event count incremented: Anonymous id
+09-19 16:05:59.289 D/FlurryAgent( 1954): Logged event: Anonymous id
+09-19 16:05:59.289 D/FlurryAgent( 1954): Event count incremented: Game started
+09-19 16:05:59.289 D/FlurryAgent( 1954): Logged event: Game started
+09-19 16:05:59.726 D/KEYLOGGER( 1828): // 2. Touch Start button
+09-19 16:06:11.386 D/dalvikvm(  246): GC_CONCURRENT freed 1216K, 27% free 13464K/18247K, paused 5ms+13ms, total 149ms
+09-19 16:06:15.398 D/KEYLOGGER( 1828): // 3. Wait checkbox
+09-19 16:06:15.476 D/dalvikvm( 1954): GC_FOR_ALLOC freed 329K, 45% free 8715K/15815K, paused 29ms, total 29ms
+09-19 16:06:15.480 I/dalvikvm-heap( 1954): Grow heap (frag case) to 9.559MB for 1048592-byte allocation
+09-19 16:06:15.503 D/dalvikvm( 1954): GC_FOR_ALLOC freed <1K, 39% free 9739K/15815K, paused 27ms, total 27ms
+09-19 16:06:15.558 D/dalvikvm( 1954): GC_CONCURRENT freed 5K, 36% free 10245K/15815K, paused 12ms+2ms, total 53ms
+09-19 16:06:15.597 D/dalvikvm( 1954): GC_FOR_ALLOC freed <1K, 36% free 10245K/15815K, paused 20ms, total 20ms
+09-19 16:06:15.601 I/dalvikvm-heap( 1954): Grow heap (frag case) to 12.083MB for 2128980-byte allocation
+09-19 16:06:15.636 D/dalvikvm( 1954): GC_CONCURRENT freed 1024K, 29% free 11300K/15815K, paused 12ms+2ms, total 35ms
+09-19 16:06:15.636 D/dalvikvm( 1954): WAIT_FOR_CONCURRENT_GC blocked 8ms
+09-19 16:06:15.652 D/dalvikvm( 1954): GC_FOR_ALLOC freed 0K, 29% free 11300K/15815K, paused 16ms, total 16ms
+09-19 16:06:15.656 I/dalvikvm-heap( 1954): Grow heap (frag case) to 12.302MB for 1278156-byte allocation
+09-19 16:06:15.707 D/dalvikvm( 1954): GC_CONCURRENT freed 0K, 21% free 12548K/15815K, paused 12ms+15ms, total 51ms
+09-19 16:06:15.781 D/dalvikvm( 1954): GC_FOR_ALLOC freed 4442K, 45% free 8709K/15815K, paused 17ms, total 17ms
+09-19 16:06:15.781 I/dalvikvm-heap( 1954): Grow heap (frag case) to 9.553MB for 1048592-byte allocation
+09-19 16:06:15.808 D/dalvikvm( 1954): GC_CONCURRENT freed <1K, 39% free 9733K/15815K, paused 12ms+3ms, total 29ms
+09-19 16:06:15.808 D/dalvikvm( 1954): WAIT_FOR_CONCURRENT_GC blocked 13ms
+09-19 16:06:15.855 D/dalvikvm( 1954): GC_FOR_ALLOC freed 0K, 36% free 10245K/15815K, paused 17ms, total 17ms
+09-19 16:06:15.855 I/dalvikvm-heap( 1954): Grow heap (frag case) to 12.056MB for 2100492-byte allocation
+09-19 16:06:15.890 D/dalvikvm( 1954): GC_CONCURRENT freed 1024K, 29% free 11272K/15815K, paused 11ms+2ms, total 33ms
+09-19 16:06:15.890 D/dalvikvm( 1954): WAIT_FOR_CONCURRENT_GC blocked 15ms
+09-19 16:06:15.906 D/dalvikvm( 1954): GC_FOR_ALLOC freed 0K, 29% free 11272K/15815K, paused 16ms, total 16ms
+09-19 16:06:15.906 I/dalvikvm-heap( 1954): Grow heap (frag case) to 12.159MB for 1156272-byte allocation
+09-19 16:06:15.953 D/dalvikvm( 1954): GC_CONCURRENT freed 0K, 22% free 12401K/15815K, paused 13ms+6ms, total 45ms
+09-19 16:06:26.292 D/dalvikvm(  246): GC_CONCURRENT freed 1262K, 27% free 13466K/18247K, paused 7ms+12ms, total 149ms
+09-19 16:06:30.398 D/KEYLOGGER( 1828): // 4. Touch check icon
+09-19 16:06:32.597 D/dalvikvm( 1954): GC_FOR_ALLOC freed 4460K, 45% free 8711K/15815K, paused 47ms, total 48ms
+09-19 16:06:32.597 I/dalvikvm-heap( 1954): Grow heap (frag case) to 9.555MB for 1048592-byte allocation
+09-19 16:06:32.628 D/dalvikvm( 1954): GC_CONCURRENT freed 2K, 39% free 9733K/15815K, paused 12ms+2ms, total 28ms
+09-19 16:06:32.628 D/dalvikvm( 1954): WAIT_FOR_CONCURRENT_GC blocked 12ms
+09-19 16:06:32.664 D/dalvikvm( 1954): GC_FOR_ALLOC freed 0K, 36% free 10245K/15815K, paused 17ms, total 17ms
+09-19 16:06:32.667 I/dalvikvm-heap( 1954): Grow heap (frag case) to 12.059MB for 2104280-byte allocation
+09-19 16:06:32.699 D/dalvikvm( 1954): GC_CONCURRENT freed 1024K, 29% free 11276K/15815K, paused 12ms+2ms, total 31ms
+09-19 16:06:32.699 D/dalvikvm( 1954): WAIT_FOR_CONCURRENT_GC blocked 9ms
+09-19 16:06:32.714 D/dalvikvm( 1954): GC_FOR_ALLOC freed 0K, 29% free 11276K/15815K, paused 16ms, total 16ms
+09-19 16:06:32.714 I/dalvikvm-heap( 1954): Grow heap (frag case) to 12.153MB for 1146142-byte allocation
+09-19 16:06:32.769 D/dalvikvm( 1954): GC_CONCURRENT freed 0K, 22% free 12395K/15815K, paused 12ms+16ms, total 53ms
+09-19 16:06:32.847 D/dalvikvm( 1954): GC_FOR_ALLOC freed 4440K, 45% free 8709K/15815K, paused 18ms, total 18ms
+09-19 16:06:32.847 I/dalvikvm-heap( 1954): Grow heap (frag case) to 9.553MB for 1048592-byte allocation
+09-19 16:06:32.875 D/dalvikvm( 1954): GC_CONCURRENT freed <1K, 39% free 9733K/15815K, paused 12ms+3ms, total 28ms
+09-19 16:06:32.875 D/dalvikvm( 1954): WAIT_FOR_CONCURRENT_GC blocked 10ms
+09-19 16:06:32.914 D/dalvikvm( 1954): GC_FOR_ALLOC freed 0K, 36% free 10245K/15815K, paused 16ms, total 16ms
+09-19 16:06:32.917 I/dalvikvm-heap( 1954): Grow heap (frag case) to 12.055MB for 2099680-byte allocation
+09-19 16:06:32.960 D/dalvikvm( 1954): GC_CONCURRENT freed 1024K, 29% free 11271K/15815K, paused 12ms+8ms, total 42ms
+09-19 16:06:32.980 D/dalvikvm( 1954): GC_FOR_ALLOC freed 0K, 29% free 11271K/15815K, paused 16ms, total 16ms
+09-19 16:06:32.980 I/dalvikvm-heap( 1954): Grow heap (frag case) to 12.710MB for 1735516-byte allocation
+09-19 16:06:33.023 D/dalvikvm( 1954): GC_CONCURRENT freed 0K, 19% free 12966K/15815K, paused 11ms+4ms, total 41ms
+09-19 16:06:33.125 D/dalvikvm( 1954): GC_CONCURRENT freed 4264K, 36% free 10245K/15815K, paused 12ms+2ms, total 53ms
+09-19 16:06:33.148 D/dalvikvm( 1954): GC_FOR_ALLOC freed <1K, 36% free 10245K/15815K, paused 17ms, total 17ms
+09-19 16:06:33.152 I/dalvikvm-heap( 1954): Grow heap (frag case) to 12.054MB for 2098768-byte allocation
+09-19 16:06:33.187 D/dalvikvm( 1954): GC_CONCURRENT freed 1024K, 29% free 11270K/15815K, paused 12ms+2ms, total 36ms
+09-19 16:06:33.187 D/dalvikvm( 1954): WAIT_FOR_CONCURRENT_GC blocked 8ms
+09-19 16:06:33.207 D/dalvikvm( 1954): GC_FOR_ALLOC freed 0K, 29% free 11270K/15815K, paused 18ms, total 18ms
+09-19 16:06:33.207 I/dalvikvm-heap( 1954): Grow heap (frag case) to 12.388MB for 1398420-byte allocation
+09-19 16:06:33.250 D/dalvikvm( 1954): GC_CONCURRENT freed 0K, 21% free 12636K/15815K, paused 12ms+6ms, total 44ms
+09-19 16:06:33.363 D/dalvikvm( 1954): GC_FOR_ALLOC freed 5137K, 45% free 8708K/15815K, paused 18ms, total 18ms
+09-19 16:06:33.410 D/dalvikvm( 1954): GC_CONCURRENT freed 383K, 45% free 8712K/15815K, paused 11ms+3ms, total 29ms
+09-19 16:06:33.410 D/dalvikvm( 1954): WAIT_FOR_CONCURRENT_GC blocked 13ms
+09-19 16:06:33.425 D/dalvikvm( 1954): GC_FOR_ALLOC freed 3K, 45% free 8709K/15815K, paused 16ms, total 16ms
+09-19 16:06:33.429 I/dalvikvm-heap( 1954): Grow heap (frag case) to 9.553MB for 1048592-byte allocation
+09-19 16:06:33.457 D/dalvikvm( 1954): GC_CONCURRENT freed <1K, 39% free 9733K/15815K, paused 13ms+3ms, total 29ms
+09-19 16:06:33.457 D/dalvikvm( 1954): WAIT_FOR_CONCURRENT_GC blocked 9ms
+09-19 16:06:33.492 D/dalvikvm( 1954): GC_FOR_ALLOC freed 0K, 36% free 10245K/15815K, paused 16ms, total 16ms
+09-19 16:06:33.492 I/dalvikvm-heap( 1954): Grow heap (frag case) to 12.054MB for 2098958-byte allocation
+09-19 16:06:33.523 D/dalvikvm( 1954): GC_CONCURRENT freed 1024K, 29% free 11270K/15815K, paused 12ms+3ms, total 32ms
+09-19 16:06:33.523 D/dalvikvm( 1954): WAIT_FOR_CONCURRENT_GC blocked 11ms
+09-19 16:06:33.542 D/dalvikvm( 1954): GC_FOR_ALLOC freed 0K, 29% free 11270K/15815K, paused 16ms, total 16ms
+09-19 16:06:33.542 I/dalvikvm-heap( 1954): Grow heap (frag case) to 12.257MB for 1261508-byte allocation
+09-19 16:06:33.589 D/dalvikvm( 1954): GC_CONCURRENT freed 0K, 21% free 12502K/15815K, paused 12ms+2ms, total 45ms
+09-19 16:06:33.761 D/dalvikvm( 1954): GC_FOR_ALLOC freed 5109K, 45% free 8709K/15815K, paused 17ms, total 18ms
+09-19 16:06:33.765 I/dalvikvm-heap( 1954): Grow heap (frag case) to 9.459MB for 950340-byte allocation
+09-19 16:06:33.804 D/dalvikvm( 1954): GC_CONCURRENT freed 2K, 40% free 9635K/15815K, paused 12ms+4ms, total 42ms
+09-19 16:06:33.875 D/dalvikvm( 1954): GC_CONCURRENT freed 929K, 42% free 9219K/15815K, paused 12ms+3ms, total 43ms
+09-19 16:06:33.925 D/FlurryAgent( 1954): Event count incremented: Level started
+09-19 16:06:33.925 D/FlurryAgent( 1954): Logged event: Level started
+09-19 16:06:40.515 D/KEYLOGGER( 1828): // 5. Fire bird
+09-19 16:06:41.878 D/dalvikvm(  246): GC_CONCURRENT freed 1265K, 27% free 13465K/18247K, paused 5ms+7ms, total 169ms
+09-19 16:06:56.222 D/dalvikvm(  246): GC_CONCURRENT freed 1265K, 27% free 13465K/18247K, paused 7ms+7ms, total 154ms
+09-19 16:06:56.859 D/FlurryAgent( 1954): Event count incremented: Level complete
+09-19 16:06:56.863 D/FlurryAgent( 1954): Logged event: Level complete
+09-19 16:06:58.558 D/KEYLOGGER( 1828): // 6. Back to home screen
+09-19 16:07:00.699 D/dalvikvm( 1954): GC_CONCURRENT freed 944K, 45% free 8720K/15815K, paused 11ms+16ms, total 62ms
+09-19 16:07:10.714 D/dalvikvm(  246): GC_CONCURRENT freed 1264K, 27% free 13465K/18247K, paused 10ms+7ms, total 148ms
+09-19 16:07:14.707 D/FlurryAgent( 1954): Ending session
+09-19 16:07:14.710 I/LocationManagerService(  246): remove network (pid 1954), next minTime = 86400000
+09-19 16:07:14.781 I/InputReader(  246): Reconfiguring input devices.  changes=0x00000004
+09-19 16:07:14.781 I/InputReader(  246): Device reconfigured: id=6, name='mxt224_ts_input', surface size is now 480x800, mode is 1
+09-19 16:07:14.820 I/ActivityManager(  246): Config changed: {1.0 0mcc0mnc en_US sw320dp w320dp h508dp nrml long port finger -keyb/v/h -nav/h s.13}
+09-19 16:07:14.976 D/dalvikvm(  392): GC_CONCURRENT freed 287K, 5% free 8378K/8775K, paused 18ms+19ms, total 146ms
+09-19 16:07:15.019 D/dalvikvm(  324): GC_CONCURRENT freed 1075K, 9% free 11842K/12999K, paused 17ms+13ms, total 111ms
+09-19 16:07:15.097 W/IInputConnectionWrapper( 1954): showStatusIcon on inactive InputConnection
+09-19 16:07:15.253 I/Process ( 1954): Sending signal. PID: 1954 SIG: 9
+09-19 16:07:15.281 I/ActivityManager(  246): Process com.rovio.angrybirdsrio (pid 1954) has died.
+09-19 16:07:15.281 I/WindowState(  246): WIN DEATH: Window{42435620 SurfaceView paused=false}
+09-19 16:07:15.289 I/WindowState(  246): WIN DEATH: Window{424ed360 com.rovio.angrybirdsrio/com.rovio.ka3d.App paused=false}
+09-19 16:07:16.890 D/dalvikvm(  246): WAIT_FOR_CONCURRENT_GC blocked 0ms
+09-19 16:07:17.015 D/dalvikvm(  246): GC_EXPLICIT freed 752K, 27% free 13398K/18247K, paused 24ms+6ms, total 126ms
+09-19 16:07:18.300 D/AudioHardware(   89): AudioHardware pcm playback is going to standby.
+09-19 16:07:18.300 D/AudioHardware(   89): closePcmOut_l() mPcmOpenCnt: 1
+09-19 16:07:18.421 I/ActivityManager(  246): START {act=android.intent.action.MAIN cat=[android.intent.category.HOME] flg=0x10200000 cmp=com.android.launcher/com.android.launcher2.Launcher u=0} from pid 246
+09-19 16:07:19.585 D/AndroidRuntime( 2003): 
+09-19 16:07:19.585 D/AndroidRuntime( 2003): >>>>>> AndroidRuntime START com.android.internal.os.RuntimeInit <<<<<<
+09-19 16:07:19.585 D/AndroidRuntime( 2003): CheckJNI is OFF
+09-19 16:07:19.601 D/dalvikvm( 2003): Trying to load lib libjavacore.so 0x0
+09-19 16:07:19.605 D/dalvikvm( 2003): Added shared lib libjavacore.so 0x0
+09-19 16:07:19.613 D/dalvikvm( 2003): Trying to load lib libnativehelper.so 0x0
+09-19 16:07:19.613 D/dalvikvm( 2003): Added shared lib libnativehelper.so 0x0
+09-19 16:07:19.851 D/AndroidRuntime( 2003): Calling main entry com.android.commands.am.Am
+09-19 16:07:19.863 D/CheckStatusActivity( 1843): onStartCommand
+09-19 16:07:19.863 D/CheckStatusActivity( 1843): dataUri: replayOver
+09-19 16:07:19.863 D/CheckStatusActivity( 1843): onDestroy
+09-19 16:07:19.867 D/AndroidRuntime( 2003): Shutting down VM
+09-19 16:07:19.871 D/dalvikvm( 2003): GC_CONCURRENT freed 100K, 82% free 485K/2560K, paused 1ms+0ms, total 4ms
+09-19 16:07:19.875 I/AndroidRuntime( 2003): NOTE: attach of thread 'Binder_3' failed
+09-19 16:07:20.113 D/KEYLOGGER( 1828): Memory option is closing
+09-19 16:07:20.226 D/AndroidRuntime( 2015): 
+09-19 16:07:20.226 D/AndroidRuntime( 2015): >>>>>> AndroidRuntime START com.android.internal.os.RuntimeInit <<<<<<
+09-19 16:07:20.226 D/AndroidRuntime( 2015): CheckJNI is OFF
+09-19 16:07:20.234 D/dalvikvm( 2015): Trying to load lib libjavacore.so 0x0
+09-19 16:07:20.238 D/dalvikvm( 2015): Added shared lib libjavacore.so 0x0
+09-19 16:07:20.246 D/dalvikvm( 2015): Trying to load lib libnativehelper.so 0x0
+09-19 16:07:20.246 D/dalvikvm( 2015): Added shared lib libnativehelper.so 0x0
+09-19 16:07:20.425 D/AndroidRuntime( 2015): Calling main entry com.android.commands.am.Am
+09-19 16:07:20.437 D/MemoryLogService( 1349): dataUri: memScan
+09-19 16:07:20.437 D/TM      ( 1349): 359854080
+09-19 16:07:20.437 D/HelloActivityActivity( 1349): Threshold 39352320
+09-19 16:07:20.441 D/importance( 1349): 100
+09-19 16:07:20.441 D/AndroidRuntime( 2015): Shutting down VM
+09-19 16:07:20.457 D/dalvikvm( 2015): GC_CONCURRENT freed 100K, 82% free 485K/2560K, paused 0ms+1ms, total 4ms
+09-19 16:07:20.457 I/AndroidRuntime( 2015): NOTE: attach of thread 'Binder_2' failed
+09-19 16:07:20.503 D/importance( 1349): 100
+09-19 16:07:20.539 D/importance( 1349): 100
+09-19 16:07:20.570 D/importance( 1349): 130
+09-19 16:07:20.601 D/importance( 1349): 200
+09-19 16:07:20.636 D/importance( 1349): 100

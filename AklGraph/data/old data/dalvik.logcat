@@ -1,0 +1,3 @@
+--------- beginning of /dev/log/system
+06-05 11:50:21.033 W/PackageManager(  199): Unknown permission android.permission.RECEIVE_EMAILSEND in package com.android.contacts
+06-05 11:50:21.033 W/PackageManager(  199): Unknown permission com.android.email.permission.WRITE_HISTORY in package com.android.contacts

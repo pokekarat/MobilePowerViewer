@@ -1,0 +1,457 @@
+09-10 15:27:33.142 D/AndroidRuntime( 2463): Calling main entry com.android.commands.am.Am
+09-10 15:27:33.154 D/MemoryLogService( 1825): dataUri: memScan
+09-10 15:27:33.154 D/TM      ( 1825): 359854080
+09-10 15:27:33.158 D/HelloActivityActivity( 1825): Threshold 39352320
+09-10 15:27:33.158 D/importance( 1825): 100
+09-10 15:27:33.158 D/AndroidRuntime( 2463): Shutting down VM
+09-10 15:27:33.173 D/dalvikvm( 2463): GC_CONCURRENT freed 100K, 82% free 485K/2560K, paused 0ms+1ms, total 3ms
+09-10 15:27:33.177 I/AndroidRuntime( 2463): NOTE: attach of thread 'Binder_2' failed
+09-10 15:27:33.193 D/importance( 1825): 100
+09-10 15:27:33.259 D/importance( 1825): 100
+09-10 15:27:33.290 D/importance( 1825): 130
+09-10 15:27:33.322 D/importance( 1825): 200
+09-10 15:27:33.357 D/importance( 1825): 100
+09-10 15:27:33.392 D/KEYLOGGER( 2368): // 1. Use shell to launch Youtube application.
+09-10 15:27:33.454 D/importance( 1825): 400
+09-10 15:27:33.521 D/importance( 1825): 400
+09-10 15:27:33.583 D/importance( 1825): 400
+09-10 15:27:33.615 D/AndroidRuntime( 2474): 
+09-10 15:27:33.615 D/AndroidRuntime( 2474): >>>>>> AndroidRuntime START com.android.internal.os.RuntimeInit <<<<<<
+09-10 15:27:33.615 D/AndroidRuntime( 2474): CheckJNI is OFF
+09-10 15:27:33.630 D/dalvikvm( 2474): Trying to load lib libjavacore.so 0x0
+09-10 15:27:33.634 D/dalvikvm( 2474): Added shared lib libjavacore.so 0x0
+09-10 15:27:33.638 D/importance( 1825): 400
+09-10 15:27:33.654 D/dalvikvm( 2474): Trying to load lib libnativehelper.so 0x0
+09-10 15:27:33.654 D/dalvikvm( 2474): Added shared lib libnativehelper.so 0x0
+09-10 15:27:33.701 D/importance( 1825): 300
+09-10 15:27:33.747 D/importance( 1825): 300
+09-10 15:27:33.829 D/importance( 1825): 400
+09-10 15:27:33.954 D/importance( 1825): 400
+09-10 15:27:34.013 D/AndroidRuntime( 2474): Calling main entry com.android.commands.am.Am
+09-10 15:27:34.021 I/ActivityManager(  308): START {flg=0x10000000 cmp=com.google.android.youtube/.HomeActivity u=0} from pid 2474
+09-10 15:27:34.029 D/importance( 1825): 100
+09-10 15:27:34.130 D/dalvikvm(  308): GC_FOR_ALLOC freed 333K, 12% free 13447K/15175K, paused 85ms, total 86ms
+09-10 15:27:34.130 I/dalvikvm-heap(  308): Grow heap (frag case) to 13.391MB for 214528-byte allocation
+09-10 15:27:34.193 D/importance( 1825): 400
+09-10 15:27:34.193 D/dalvikvm(  308): GC_FOR_ALLOC freed 11K, 12% free 13645K/15431K, paused 61ms, total 61ms
+09-10 15:27:34.216 D/AndroidRuntime( 2474): Shutting down VM
+09-10 15:27:34.220 D/dalvikvm( 2474): GC_CONCURRENT freed 99K, 82% free 484K/2560K, paused 1ms+0ms, total 4ms
+09-10 15:27:34.224 I/ActivityManager(  308): START {cmp=com.google.android.youtube/.app.honeycomb.phone.HomeActivity u=0} from pid 1390
+09-10 15:27:34.244 I/AndroidRuntime( 2474): NOTE: attach of thread 'Binder_3' failed
+09-10 15:27:34.302 D/importance( 1825): 400
+09-10 15:27:34.357 D/dalvikvm( 1390): GC_FOR_ALLOC freed 1068K, 14% free 12021K/13831K, paused 73ms, total 81ms
+09-10 15:27:34.380 D/importance( 1825): 400
+09-10 15:27:34.466 D/importance( 1825): 300
+09-10 15:27:34.494 D/dalvikvm( 1390): GC_FOR_ALLOC freed 2731K, 27% free 10105K/13831K, paused 60ms, total 61ms
+09-10 15:27:34.513 D/YouTube ( 1390): youtube.app.remote.AtHomeConnection.updateState:113 AtHomeConnection state changed: CONNECTING_TO_BROKER
+09-10 15:27:34.513 D/YouTube ( 1390): youtube.core.client.DefaultAnalyticsClient.trackEvent:122 event [version=4.0.8-s100, action=PageView, label=HomeActivity < HomeActivity, value=-1]
+09-10 15:27:34.513 E/ActivityThread( 1390): Failed to find provider info for com.android.athome.mediaroute.provider
+09-10 15:27:34.544 D/importance( 1825): 400
+09-10 15:27:34.607 D/importance( 1825): 400
+09-10 15:27:34.681 D/importance( 1825): 400
+09-10 15:27:34.697 I/aah-BrokerManager( 1390): Broker is not installed
+09-10 15:27:34.697 I/aah-BrokerManager( 1390): Broker is not installed
+09-10 15:27:34.744 D/importance( 1825): 400
+09-10 15:27:34.806 D/importance( 1825): 400
+09-10 15:27:34.884 D/dalvikvm( 1390): GC_CONCURRENT freed 406K, 25% free 10416K/13831K, paused 19ms+8ms, total 83ms
+09-10 15:27:34.884 D/dalvikvm( 1390): WAIT_FOR_CONCURRENT_GC blocked 27ms
+09-10 15:27:34.884 D/dalvikvm( 1390): WAIT_FOR_CONCURRENT_GC blocked 27ms
+09-10 15:27:34.900 D/importance( 1825): 100
+09-10 15:27:34.931 D/YouTube ( 1390): youtube.core.client.DefaultAnalyticsClient.trackEvent:122 event [version=4.0.8-s100, action=GuideSubscriptionsInit, label=-, value=0]
+09-10 15:27:34.962 I/ActivityManager(  308): Displayed com.google.android.youtube/.app.honeycomb.phone.HomeActivity: +737ms (total +758ms)
+09-10 15:27:34.978 D/HelloActivityActivity( 1825): , Tracing process name/id : com.google.android.youtube/1390, whose used Pss/Dirty memory usage(kb): 28006/20344
+09-10 15:27:34.982 D/HelloActivityActivity( 1825): , Tracing process name/id : com.android.launcher/599, whose used Pss/Dirty memory usage(kb): 27905/16648
+09-10 15:27:34.982 D/HelloActivityActivity( 1825): , Tracing process name/id : system/308, whose used Pss/Dirty memory usage(kb): 19275/15328
+09-10 15:27:34.990 D/HelloActivityActivity( 1825): , Tracing process name/id : com.android.systemui/417, whose used Pss/Dirty memory usage(kb): 17915/10864
+09-10 15:27:34.990 D/HelloActivityActivity( 1825): , Tracing process name/id : android.process.acore/1581, whose used Pss/Dirty memory usage(kb): 12362/5032
+09-10 15:27:34.994 D/HelloActivityActivity( 1825): , Tracing process name/id : com.google.android.apps.currents/2324, whose used Pss/Dirty memory usage(kb): 10939/6600
+09-10 15:27:34.997 D/HelloActivityActivity( 1825): , Tracing process name/id : com.google.android.inputmethod.latin/544, whose used Pss/Dirty memory usage(kb): 9451/7348
+09-10 15:27:35.001 D/HelloActivityActivity( 1825): , Tracing process name/id : com.google.android.apps.plus/1434, whose used Pss/Dirty memory usage(kb): 9404/6324
+09-10 15:27:35.005 D/HelloActivityActivity( 1825): , Tracing process name/id : com.android.vending/1279, whose used Pss/Dirty memory usage(kb): 9270/5752
+09-10 15:27:35.009 D/HelloActivityActivity( 1825): , Tracing process name/id : com.google.process.gapps/725, whose used Pss/Dirty memory usage(kb): 8886/6140
+09-10 15:27:35.013 D/HelloActivityActivity( 1825): , Tracing process name/id : com.google.android.apps.maps/1626, whose used Pss/Dirty memory usage(kb): 7260/3884
+09-10 15:27:35.025 D/HelloActivityActivity( 1825): , Tracing process name/id : com.google.android.music:main/1529, whose used Pss/Dirty memory usage(kb): 6444/3640
+09-10 15:27:35.033 D/HelloActivityActivity( 1825): , Tracing process name/id : com.google.android.gm/1486, whose used Pss/Dirty memory usage(kb): 6125/3888
+09-10 15:27:35.036 D/HelloActivityActivity( 1825): , Tracing process name/id : android.process.media/515, whose used Pss/Dirty memory usage(kb): 5563/4224
+09-10 15:27:35.036 D/HelloActivityActivity( 1825): , Tracing process name/id : com.android.phone/570, whose used Pss/Dirty memory usage(kb): 5391/3856
+09-10 15:27:35.052 D/HelloActivityActivity( 1825): , Tracing process name/id : com.google.android.gallery3d/1362, whose used Pss/Dirty memory usage(kb): 5096/3228
+09-10 15:27:35.056 D/HelloActivityActivity( 1825): , Tracing process name/id : com.google.android.talk/1552, whose used Pss/Dirty memory usage(kb): 4679/2916
+09-10 15:27:35.060 D/HelloActivityActivity( 1825): , Tracing process name/id : com.google.android.apps.uploader/1376, whose used Pss/Dirty memory usage(kb): 3899/2816
+09-10 15:27:35.068 D/HelloActivityActivity( 1825): , Tracing process name/id : com.google.android.calendar/1452, whose used Pss/Dirty memory usage(kb): 3789/2312
+09-10 15:27:35.068 D/HelloActivityActivity( 1825): , Tracing process name/id : com.android.nfc/582, whose used Pss/Dirty memory usage(kb): 3621/2576
+09-10 15:27:35.072 D/HelloActivityActivity( 1825): , Tracing process name/id : com.google.android.gsf.login/500, whose used Pss/Dirty memory usage(kb): 3545/2232
+09-10 15:27:35.072 D/HelloActivityActivity( 1825): , Tracing process name/id : com.android.providers.calendar/1472, whose used Pss/Dirty memory usage(kb): 3497/2376
+09-10 15:27:35.083 D/HelloActivityActivity( 1825): , Tracing process name/id : com.android.ebl.akl.service.memoryLog/1825, whose used Pss/Dirty memory usage(kb): 3213/2280
+09-10 15:27:35.087 D/HelloActivityActivity( 1825): , Tracing process name/id : com.google.android.inputmethod.latin.dictionarypack/1955, whose used Pss/Dirty memory usage(kb): 3123/2056
+09-10 15:27:35.087 D/HelloActivityActivity( 1825): , Tracing process name/id : com.android.service.test/2383, whose used Pss/Dirty memory usage(kb): 2829/1892
+09-10 15:27:35.091 D/HelloActivityActivity( 1825): !tracing
+09-10 15:27:35.095 D/HelloActivityActivity( 1825): , Total_PSS:221487, Total_USS:144556
+09-10 15:27:35.095 D/dalvikvm( 1825): WAIT_FOR_CONCURRENT_GC blocked 0ms
+09-10 15:27:35.142 D/YouTube ( 1390): youtube.core.client.DefaultAnalyticsClient.trackEvent:122 event [version=4.0.8-s100, action=GuideCollapsed, label=AUTO, value=-1]
+09-10 15:27:35.173 D/dalvikvm( 1825): GC_EXPLICIT freed 362K, 6% free 7993K/8455K, paused 2ms+10ms, total 74ms
+09-10 15:27:35.228 D/dalvikvm( 1390): GC_FOR_ALLOC freed 125K, 24% free 10576K/13831K, paused 39ms, total 39ms
+09-10 15:27:35.228 I/dalvikvm-heap( 1390): Grow heap (frag case) to 11.366MB for 1036816-byte allocation
+09-10 15:27:35.283 D/dalvikvm( 1390): GC_CONCURRENT freed 10K, 17% free 11578K/13831K, paused 19ms+3ms, total 54ms
+09-10 15:27:35.283 D/dalvikvm( 1390): WAIT_FOR_CONCURRENT_GC blocked 29ms
+09-10 15:27:35.314 D/dalvikvm( 1390): WAIT_FOR_CONCURRENT_GC blocked 56ms
+09-10 15:27:35.314 D/dalvikvm( 1390): WAIT_FOR_CONCURRENT_GC blocked 56ms
+09-10 15:27:37.638 D/dalvikvm( 1390): GC_CONCURRENT freed 1065K, 16% free 11687K/13831K, paused 12ms+7ms, total 75ms
+09-10 15:27:37.642 D/dalvikvm( 1390): WAIT_FOR_CONCURRENT_GC blocked 50ms
+09-10 15:27:37.658 D/AndroidRuntime( 2493): 
+09-10 15:27:37.658 D/AndroidRuntime( 2493): >>>>>> AndroidRuntime START com.android.internal.os.RuntimeInit <<<<<<
+09-10 15:27:37.658 D/AndroidRuntime( 2493): CheckJNI is OFF
+09-10 15:27:37.665 D/dalvikvm( 2493): Trying to load lib libjavacore.so 0x0
+09-10 15:27:37.669 D/dalvikvm( 2493): Added shared lib libjavacore.so 0x0
+09-10 15:27:37.677 D/dalvikvm( 2493): Trying to load lib libnativehelper.so 0x0
+09-10 15:27:37.677 D/dalvikvm( 2493): Added shared lib libnativehelper.so 0x0
+09-10 15:27:37.876 D/AndroidRuntime( 2493): Calling main entry com.android.commands.input.Input
+09-10 15:27:37.876 I/Input   ( 2493): InjectKeyEvent: KeyEvent { action=ACTION_DOWN, keyCode=KEYCODE_DPAD_UP, scanCode=0, metaState=0, flags=0x0, repeatCount=0, eventTime=526511, downTime=526511, deviceId=-1, source=0x101 }
+09-10 15:27:37.888 I/Input   ( 2493): InjectKeyEvent: KeyEvent { action=ACTION_UP, keyCode=KEYCODE_DPAD_UP, scanCode=0, metaState=0, flags=0x0, repeatCount=0, eventTime=526511, downTime=526511, deviceId=-1, source=0x101 }
+09-10 15:27:37.892 D/AudioHardware(   89): AudioHardware pcm playback is exiting standby.
+09-10 15:27:37.892 D/AudioHardware(   89): openPcmOut_l() mPcmOpenCnt: 0
+09-10 15:27:37.908 D/AndroidRuntime( 2493): Shutting down VM
+09-10 15:27:37.915 D/dalvikvm( 2493): GC_CONCURRENT freed 100K, 83% free 449K/2560K, paused 0ms+1ms, total 5ms
+09-10 15:27:37.915 I/AndroidRuntime( 2493): NOTE: attach of thread 'Binder_3' failed
+09-10 15:27:39.353 D/AndroidRuntime( 2510): 
+09-10 15:27:39.353 D/AndroidRuntime( 2510): >>>>>> AndroidRuntime START com.android.internal.os.RuntimeInit <<<<<<
+09-10 15:27:39.353 D/AndroidRuntime( 2510): CheckJNI is OFF
+09-10 15:27:39.365 D/dalvikvm( 2510): Trying to load lib libjavacore.so 0x0
+09-10 15:27:39.369 D/dalvikvm( 2510): Added shared lib libjavacore.so 0x0
+09-10 15:27:39.376 D/dalvikvm( 2510): Trying to load lib libnativehelper.so 0x0
+09-10 15:27:39.376 D/dalvikvm( 2510): Added shared lib libnativehelper.so 0x0
+09-10 15:27:39.564 D/AndroidRuntime( 2510): Calling main entry com.android.commands.input.Input
+09-10 15:27:39.564 I/Input   ( 2510): InjectKeyEvent: KeyEvent { action=ACTION_DOWN, keyCode=KEYCODE_DPAD_UP, scanCode=0, metaState=0, flags=0x0, repeatCount=0, eventTime=528198, downTime=528198, deviceId=-1, source=0x101 }
+09-10 15:27:39.572 I/Input   ( 2510): InjectKeyEvent: KeyEvent { action=ACTION_UP, keyCode=KEYCODE_DPAD_UP, scanCode=0, metaState=0, flags=0x0, repeatCount=0, eventTime=528198, downTime=528198, deviceId=-1, source=0x101 }
+09-10 15:27:39.572 D/AndroidRuntime( 2510): Shutting down VM
+09-10 15:27:39.576 D/dalvikvm( 2510): GC_CONCURRENT freed 99K, 83% free 449K/2560K, paused 1ms+0ms, total 4ms
+09-10 15:27:39.576 I/AndroidRuntime( 2510): NOTE: attach of thread 'Binder_1' failed
+09-10 15:27:40.747 D/dalvikvm( 1390): GC_FOR_ALLOC freed 1171K, 17% free 11579K/13831K, paused 26ms, total 28ms
+09-10 15:27:40.997 D/AndroidRuntime( 2523): 
+09-10 15:27:40.997 D/AndroidRuntime( 2523): >>>>>> AndroidRuntime START com.android.internal.os.RuntimeInit <<<<<<
+09-10 15:27:40.997 D/AndroidRuntime( 2523): CheckJNI is OFF
+09-10 15:27:41.009 D/dalvikvm( 2523): Trying to load lib libjavacore.so 0x0
+09-10 15:27:41.013 D/dalvikvm( 2523): Added shared lib libjavacore.so 0x0
+09-10 15:27:41.017 D/dalvikvm( 2523): Trying to load lib libnativehelper.so 0x0
+09-10 15:27:41.017 D/dalvikvm( 2523): Added shared lib libnativehelper.so 0x0
+09-10 15:27:41.189 D/AudioHardware(   89): AudioHardware pcm playback is going to standby.
+09-10 15:27:41.189 D/AudioHardware(   89): closePcmOut_l() mPcmOpenCnt: 1
+09-10 15:27:41.208 D/AndroidRuntime( 2523): Calling main entry com.android.commands.input.Input
+09-10 15:27:41.212 I/Input   ( 2523): InjectKeyEvent: KeyEvent { action=ACTION_DOWN, keyCode=KEYCODE_DPAD_RIGHT, scanCode=0, metaState=0, flags=0x0, repeatCount=0, eventTime=529844, downTime=529844, deviceId=-1, source=0x101 }
+09-10 15:27:41.220 D/AudioHardware(   89): AudioHardware pcm playback is exiting standby.
+09-10 15:27:41.220 D/AudioHardware(   89): openPcmOut_l() mPcmOpenCnt: 0
+09-10 15:27:41.224 I/Input   ( 2523): InjectKeyEvent: KeyEvent { action=ACTION_UP, keyCode=KEYCODE_DPAD_RIGHT, scanCode=0, metaState=0, flags=0x0, repeatCount=0, eventTime=529844, downTime=529844, deviceId=-1, source=0x101 }
+09-10 15:27:41.232 D/AndroidRuntime( 2523): Shutting down VM
+09-10 15:27:41.240 D/dalvikvm( 2523): GC_CONCURRENT freed 99K, 83% free 449K/2560K, paused 0ms+1ms, total 5ms
+09-10 15:27:41.244 I/AndroidRuntime( 2523): NOTE: attach of thread 'Binder_2' failed
+09-10 15:27:42.619 D/AndroidRuntime( 2536): 
+09-10 15:27:42.619 D/AndroidRuntime( 2536): >>>>>> AndroidRuntime START com.android.internal.os.RuntimeInit <<<<<<
+09-10 15:27:42.619 D/AndroidRuntime( 2536): CheckJNI is OFF
+09-10 15:27:42.626 D/dalvikvm( 2536): Trying to load lib libjavacore.so 0x0
+09-10 15:27:42.630 D/dalvikvm( 2536): Added shared lib libjavacore.so 0x0
+09-10 15:27:42.638 D/dalvikvm( 2536): Trying to load lib libnativehelper.so 0x0
+09-10 15:27:42.638 D/dalvikvm( 2536): Added shared lib libnativehelper.so 0x0
+09-10 15:27:42.837 D/AndroidRuntime( 2536): Calling main entry com.android.commands.input.Input
+09-10 15:27:42.841 I/Input   ( 2536): InjectKeyEvent: KeyEvent { action=ACTION_DOWN, keyCode=KEYCODE_ENTER, scanCode=0, metaState=0, flags=0x0, repeatCount=0, eventTime=531475, downTime=531475, deviceId=-1, source=0x101 }
+09-10 15:27:42.849 I/Input   ( 2536): InjectKeyEvent: KeyEvent { action=ACTION_UP, keyCode=KEYCODE_ENTER, scanCode=0, metaState=0, flags=0x0, repeatCount=0, eventTime=531475, downTime=531475, deviceId=-1, source=0x101 }
+09-10 15:27:42.857 D/YouTube ( 1390): youtube.core.client.DefaultAnalyticsClient.trackEvent:122 event [version=4.0.8-s100, action=Search, label=HomeActivity, value=-1]
+09-10 15:27:42.861 D/AndroidRuntime( 2536): Shutting down VM
+09-10 15:27:42.869 D/dalvikvm( 2536): GC_CONCURRENT freed 100K, 83% free 449K/2560K, paused 1ms+0ms, total 4ms
+09-10 15:27:42.876 I/AndroidRuntime( 2536): NOTE: attach of thread 'Binder_3' failed
+09-10 15:27:42.884 D/YouTube ( 1390): youtube.core.suggest.HistoryDb.query:88 History query returning 3 rows
+09-10 15:27:42.900 W/LatinIME(  544): Deprecated private IME option specified: nm
+09-10 15:27:42.900 W/LatinIME(  544): Use com.google.android.inputmethod.latin.noMicrophoneKey instead
+09-10 15:27:43.029 D/dalvikvm(  544): GC_CONCURRENT freed 448K, 6% free 9653K/10183K, paused 13ms+25ms, total 93ms
+09-10 15:27:43.865 D/dalvikvm( 1390): GC_CONCURRENT freed 1113K, 16% free 11669K/13831K, paused 13ms+3ms, total 46ms
+09-10 15:27:43.865 D/dalvikvm( 1390): WAIT_FOR_CONCURRENT_GC blocked 25ms
+09-10 15:27:46.052 D/AudioHardware(   89): AudioHardware pcm playback is going to standby.
+09-10 15:27:46.052 D/AudioHardware(   89): closePcmOut_l() mPcmOpenCnt: 1
+09-10 15:27:46.982 D/dalvikvm( 1390): GC_FOR_ALLOC freed 1084K, 16% free 11654K/13831K, paused 27ms, total 28ms
+09-10 15:27:48.267 D/AndroidRuntime( 2556): 
+09-10 15:27:48.267 D/AndroidRuntime( 2556): >>>>>> AndroidRuntime START com.android.internal.os.RuntimeInit <<<<<<
+09-10 15:27:48.271 D/AndroidRuntime( 2556): CheckJNI is OFF
+09-10 15:27:48.279 D/dalvikvm( 2556): Trying to load lib libjavacore.so 0x0
+09-10 15:27:48.283 D/dalvikvm( 2556): Added shared lib libjavacore.so 0x0
+09-10 15:27:48.290 D/dalvikvm( 2556): Trying to load lib libnativehelper.so 0x0
+09-10 15:27:48.290 D/dalvikvm( 2556): Added shared lib libnativehelper.so 0x0
+09-10 15:27:48.478 D/AndroidRuntime( 2556): Calling main entry com.android.commands.input.Input
+09-10 15:27:48.482 I/Input   ( 2556): InjectKeyEvent: KeyEvent { action=ACTION_DOWN, keyCode=KEYCODE_B, scanCode=0, metaState=0, flags=0x0, repeatCount=0, eventTime=537115, downTime=537115, deviceId=-1, source=0x101 }
+09-10 15:27:48.490 I/Input   ( 2556): InjectKeyEvent: KeyEvent { action=ACTION_UP, keyCode=KEYCODE_B, scanCode=0, metaState=0, flags=0x0, repeatCount=0, eventTime=537115, downTime=537115, deviceId=-1, source=0x101 }
+09-10 15:27:48.494 I/Input   ( 2556): InjectKeyEvent: KeyEvent { action=ACTION_DOWN, keyCode=KEYCODE_I, scanCode=0, metaState=0, flags=0x0, repeatCount=0, eventTime=537115, downTime=537115, deviceId=-1, source=0x101 }
+09-10 15:27:48.497 I/Input   ( 2556): InjectKeyEvent: KeyEvent { action=ACTION_UP, keyCode=KEYCODE_I, scanCode=0, metaState=0, flags=0x0, repeatCount=0, eventTime=537115, downTime=537115, deviceId=-1, source=0x101 }
+09-10 15:27:48.501 D/YouTube ( 1390): youtube.core.suggest.HistoryDb.historyQuery:98 query b returning 3 rows
+09-10 15:27:48.505 I/Input   ( 2556): InjectKeyEvent: KeyEvent { action=ACTION_DOWN, keyCode=KEYCODE_G, scanCode=0, metaState=0, flags=0x0, repeatCount=0, eventTime=537115, downTime=537115, deviceId=-1, source=0x101 }
+09-10 15:27:48.533 I/Input   ( 2556): InjectKeyEvent: KeyEvent { action=ACTION_UP, keyCode=KEYCODE_G, scanCode=0, metaState=0, flags=0x0, repeatCount=0, eventTime=537115, downTime=537115, deviceId=-1, source=0x101 }
+09-10 15:27:48.536 D/AndroidRuntime( 2556): Shutting down VM
+09-10 15:27:48.544 D/dalvikvm( 2556): GC_CONCURRENT freed 108K, 83% free 451K/2560K, paused 1ms+0ms, total 5ms
+09-10 15:27:48.548 I/AndroidRuntime( 2556): NOTE: attach of thread 'Binder_3' failed
+09-10 15:27:49.505 D/AndroidRuntime( 2569): 
+09-10 15:27:49.505 D/AndroidRuntime( 2569): >>>>>> AndroidRuntime START com.android.internal.os.RuntimeInit <<<<<<
+09-10 15:27:49.505 D/AndroidRuntime( 2569): CheckJNI is OFF
+09-10 15:27:49.513 D/dalvikvm( 2569): Trying to load lib libjavacore.so 0x0
+09-10 15:27:49.521 D/dalvikvm( 2569): Added shared lib libjavacore.so 0x0
+09-10 15:27:49.529 D/dalvikvm( 2569): Trying to load lib libnativehelper.so 0x0
+09-10 15:27:49.529 D/dalvikvm( 2569): Added shared lib libnativehelper.so 0x0
+09-10 15:27:49.724 D/AndroidRuntime( 2569): Calling main entry com.android.commands.input.Input
+09-10 15:27:49.724 I/Input   ( 2569): InjectKeyEvent: KeyEvent { action=ACTION_DOWN, keyCode=KEYCODE_SPACE, scanCode=0, metaState=0, flags=0x0, repeatCount=0, eventTime=538358, downTime=538358, deviceId=-1, source=0x101 }
+09-10 15:27:49.732 I/Input   ( 2569): InjectKeyEvent: KeyEvent { action=ACTION_UP, keyCode=KEYCODE_SPACE, scanCode=0, metaState=0, flags=0x0, repeatCount=0, eventTime=538358, downTime=538358, deviceId=-1, source=0x101 }
+09-10 15:27:49.732 D/AndroidRuntime( 2569): Shutting down VM
+09-10 15:27:49.736 D/dalvikvm( 2569): GC_CONCURRENT freed 99K, 83% free 449K/2560K, paused 0ms+1ms, total 3ms
+09-10 15:27:49.744 I/AndroidRuntime( 2569): NOTE: attach of thread 'Binder_1' failed
+09-10 15:27:50.060 D/dalvikvm( 1390): GC_CONCURRENT freed 1085K, 16% free 11678K/13831K, paused 12ms+3ms, total 41ms
+09-10 15:27:50.060 D/dalvikvm( 1390): WAIT_FOR_CONCURRENT_GC blocked 26ms
+09-10 15:27:50.658 D/AndroidRuntime( 2582): 
+09-10 15:27:50.658 D/AndroidRuntime( 2582): >>>>>> AndroidRuntime START com.android.internal.os.RuntimeInit <<<<<<
+09-10 15:27:50.658 D/AndroidRuntime( 2582): CheckJNI is OFF
+09-10 15:27:50.665 D/dalvikvm( 2582): Trying to load lib libjavacore.so 0x0
+09-10 15:27:50.669 D/dalvikvm( 2582): Added shared lib libjavacore.so 0x0
+09-10 15:27:50.677 D/dalvikvm( 2582): Trying to load lib libnativehelper.so 0x0
+09-10 15:27:50.677 D/dalvikvm( 2582): Added shared lib libnativehelper.so 0x0
+09-10 15:27:50.872 D/AndroidRuntime( 2582): Calling main entry com.android.commands.input.Input
+09-10 15:27:50.876 I/Input   ( 2582): InjectKeyEvent: KeyEvent { action=ACTION_DOWN, keyCode=KEYCODE_B, scanCode=0, metaState=0, flags=0x0, repeatCount=0, eventTime=539507, downTime=539507, deviceId=-1, source=0x101 }
+09-10 15:27:50.880 I/Input   ( 2582): InjectKeyEvent: KeyEvent { action=ACTION_UP, keyCode=KEYCODE_B, scanCode=0, metaState=0, flags=0x0, repeatCount=0, eventTime=539507, downTime=539507, deviceId=-1, source=0x101 }
+09-10 15:27:50.884 I/Input   ( 2582): InjectKeyEvent: KeyEvent { action=ACTION_DOWN, keyCode=KEYCODE_U, scanCode=0, metaState=0, flags=0x0, repeatCount=0, eventTime=539507, downTime=539507, deviceId=-1, source=0x101 }
+09-10 15:27:50.888 I/Input   ( 2582): InjectKeyEvent: KeyEvent { action=ACTION_UP, keyCode=KEYCODE_U, scanCode=0, metaState=0, flags=0x0, repeatCount=0, eventTime=539507, downTime=539507, deviceId=-1, source=0x101 }
+09-10 15:27:50.888 I/Input   ( 2582): InjectKeyEvent: KeyEvent { action=ACTION_DOWN, keyCode=KEYCODE_C, scanCode=0, metaState=0, flags=0x0, repeatCount=0, eventTime=539507, downTime=539507, deviceId=-1, source=0x101 }
+09-10 15:27:50.892 I/Input   ( 2582): InjectKeyEvent: KeyEvent { action=ACTION_UP, keyCode=KEYCODE_C, scanCode=0, metaState=0, flags=0x0, repeatCount=0, eventTime=539507, downTime=539507, deviceId=-1, source=0x101 }
+09-10 15:27:50.908 I/Input   ( 2582): InjectKeyEvent: KeyEvent { action=ACTION_DOWN, keyCode=KEYCODE_K, scanCode=0, metaState=0, flags=0x0, repeatCount=0, eventTime=539507, downTime=539507, deviceId=-1, source=0x101 }
+09-10 15:27:50.915 I/Input   ( 2582): InjectKeyEvent: KeyEvent { action=ACTION_UP, keyCode=KEYCODE_K, scanCode=0, metaState=0, flags=0x0, repeatCount=0, eventTime=539507, downTime=539507, deviceId=-1, source=0x101 }
+09-10 15:27:50.919 D/AndroidRuntime( 2582): Shutting down VM
+09-10 15:27:50.923 D/dalvikvm( 2582): GC_CONCURRENT freed 113K, 83% free 451K/2560K, paused 0ms+1ms, total 3ms
+09-10 15:27:50.923 I/AndroidRuntime( 2582): NOTE: attach of thread 'Binder_3' failed
+09-10 15:27:51.841 D/AndroidRuntime( 2594): 
+09-10 15:27:51.841 D/AndroidRuntime( 2594): >>>>>> AndroidRuntime START com.android.internal.os.RuntimeInit <<<<<<
+09-10 15:27:51.841 D/AndroidRuntime( 2594): CheckJNI is OFF
+09-10 15:27:51.849 D/dalvikvm( 2594): Trying to load lib libjavacore.so 0x0
+09-10 15:27:51.853 D/dalvikvm( 2594): Added shared lib libjavacore.so 0x0
+09-10 15:27:51.861 D/dalvikvm( 2594): Trying to load lib libnativehelper.so 0x0
+09-10 15:27:51.861 D/dalvikvm( 2594): Added shared lib libnativehelper.so 0x0
+09-10 15:27:52.052 D/AndroidRuntime( 2594): Calling main entry com.android.commands.input.Input
+09-10 15:27:52.056 I/Input   ( 2594): InjectKeyEvent: KeyEvent { action=ACTION_DOWN, keyCode=KEYCODE_SPACE, scanCode=0, metaState=0, flags=0x0, repeatCount=0, eventTime=540688, downTime=540688, deviceId=-1, source=0x101 }
+09-10 15:27:52.064 I/Input   ( 2594): InjectKeyEvent: KeyEvent { action=ACTION_UP, keyCode=KEYCODE_SPACE, scanCode=0, metaState=0, flags=0x0, repeatCount=0, eventTime=540688, downTime=540688, deviceId=-1, source=0x101 }
+09-10 15:27:52.064 D/AndroidRuntime( 2594): Shutting down VM
+09-10 15:27:52.068 D/dalvikvm( 2594): GC_CONCURRENT freed 99K, 83% free 449K/2560K, paused 0ms+1ms, total 4ms
+09-10 15:27:52.076 I/AndroidRuntime( 2594): NOTE: attach of thread 'Binder_1' failed
+09-10 15:27:52.990 D/AndroidRuntime( 2604): 
+09-10 15:27:52.990 D/AndroidRuntime( 2604): >>>>>> AndroidRuntime START com.android.internal.os.RuntimeInit <<<<<<
+09-10 15:27:52.990 D/AndroidRuntime( 2604): CheckJNI is OFF
+09-10 15:27:52.997 D/dalvikvm( 2604): Trying to load lib libjavacore.so 0x0
+09-10 15:27:53.001 D/dalvikvm( 2604): Added shared lib libjavacore.so 0x0
+09-10 15:27:53.009 D/dalvikvm( 2604): Trying to load lib libnativehelper.so 0x0
+09-10 15:27:53.009 D/dalvikvm( 2604): Added shared lib libnativehelper.so 0x0
+09-10 15:27:53.204 D/dalvikvm( 1390): GC_FOR_ALLOC freed 1072K, 16% free 11683K/13831K, paused 54ms, total 55ms
+09-10 15:27:53.271 D/AndroidRuntime( 2604): Calling main entry com.android.commands.input.Input
+09-10 15:27:53.275 I/Input   ( 2604): InjectKeyEvent: KeyEvent { action=ACTION_DOWN, keyCode=KEYCODE_B, scanCode=0, metaState=0, flags=0x0, repeatCount=0, eventTime=541908, downTime=541908, deviceId=-1, source=0x101 }
+09-10 15:27:53.279 I/Input   ( 2604): InjectKeyEvent: KeyEvent { action=ACTION_UP, keyCode=KEYCODE_B, scanCode=0, metaState=0, flags=0x0, repeatCount=0, eventTime=541908, downTime=541908, deviceId=-1, source=0x101 }
+09-10 15:27:53.283 I/Input   ( 2604): InjectKeyEvent: KeyEvent { action=ACTION_DOWN, keyCode=KEYCODE_U, scanCode=0, metaState=0, flags=0x0, repeatCount=0, eventTime=541908, downTime=541908, deviceId=-1, source=0x101 }
+09-10 15:27:53.286 I/Input   ( 2604): InjectKeyEvent: KeyEvent { action=ACTION_UP, keyCode=KEYCODE_U, scanCode=0, metaState=0, flags=0x0, repeatCount=0, eventTime=541908, downTime=541908, deviceId=-1, source=0x101 }
+09-10 15:27:53.290 I/Input   ( 2604): InjectKeyEvent: KeyEvent { action=ACTION_DOWN, keyCode=KEYCODE_N, scanCode=0, metaState=0, flags=0x0, repeatCount=0, eventTime=541908, downTime=541908, deviceId=-1, source=0x101 }
+09-10 15:27:53.294 I/Input   ( 2604): InjectKeyEvent: KeyEvent { action=ACTION_UP, keyCode=KEYCODE_N, scanCode=0, metaState=0, flags=0x0, repeatCount=0, eventTime=541908, downTime=541908, deviceId=-1, source=0x101 }
+09-10 15:27:53.298 I/Input   ( 2604): InjectKeyEvent: KeyEvent { action=ACTION_DOWN, keyCode=KEYCODE_N, scanCode=0, metaState=0, flags=0x0, repeatCount=0, eventTime=541908, downTime=541908, deviceId=-1, source=0x101 }
+09-10 15:27:53.314 I/Input   ( 2604): InjectKeyEvent: KeyEvent { action=ACTION_UP, keyCode=KEYCODE_N, scanCode=0, metaState=0, flags=0x0, repeatCount=0, eventTime=541908, downTime=541908, deviceId=-1, source=0x101 }
+09-10 15:27:53.337 I/Input   ( 2604): InjectKeyEvent: KeyEvent { action=ACTION_DOWN, keyCode=KEYCODE_Y, scanCode=0, metaState=0, flags=0x0, repeatCount=0, eventTime=541908, downTime=541908, deviceId=-1, source=0x101 }
+09-10 15:27:53.341 I/Input   ( 2604): InjectKeyEvent: KeyEvent { action=ACTION_UP, keyCode=KEYCODE_Y, scanCode=0, metaState=0, flags=0x0, repeatCount=0, eventTime=541908, downTime=541908, deviceId=-1, source=0x101 }
+09-10 15:27:53.345 D/AndroidRuntime( 2604): Shutting down VM
+09-10 15:27:53.349 D/dalvikvm( 2604): GC_CONCURRENT freed 117K, 83% free 451K/2560K, paused 1ms+0ms, total 4ms
+09-10 15:27:53.357 I/AndroidRuntime( 2604): NOTE: attach of thread 'Binder_3' failed
+09-10 15:27:54.329 D/AndroidRuntime( 2619): 
+09-10 15:27:54.329 D/AndroidRuntime( 2619): >>>>>> AndroidRuntime START com.android.internal.os.RuntimeInit <<<<<<
+09-10 15:27:54.329 D/AndroidRuntime( 2619): CheckJNI is OFF
+09-10 15:27:54.337 D/dalvikvm( 2619): Trying to load lib libjavacore.so 0x0
+09-10 15:27:54.341 D/dalvikvm( 2619): Added shared lib libjavacore.so 0x0
+09-10 15:27:54.357 D/dalvikvm( 2619): Trying to load lib libnativehelper.so 0x0
+09-10 15:27:54.357 D/dalvikvm( 2619): Added shared lib libnativehelper.so 0x0
+09-10 15:27:54.544 D/AndroidRuntime( 2619): Calling main entry com.android.commands.input.Input
+09-10 15:27:54.548 I/Input   ( 2619): InjectKeyEvent: KeyEvent { action=ACTION_DOWN, keyCode=KEYCODE_SPACE, scanCode=0, metaState=0, flags=0x0, repeatCount=0, eventTime=543180, downTime=543180, deviceId=-1, source=0x101 }
+09-10 15:27:54.556 I/Input   ( 2619): InjectKeyEvent: KeyEvent { action=ACTION_UP, keyCode=KEYCODE_SPACE, scanCode=0, metaState=0, flags=0x0, repeatCount=0, eventTime=543180, downTime=543180, deviceId=-1, source=0x101 }
+09-10 15:27:54.556 D/AndroidRuntime( 2619): Shutting down VM
+09-10 15:27:54.564 D/dalvikvm( 2619): GC_CONCURRENT freed 99K, 83% free 449K/2560K, paused 0ms+0ms, total 4ms
+09-10 15:27:54.564 I/AndroidRuntime( 2619): NOTE: attach of thread 'Binder_1' failed
+09-10 15:27:55.470 D/AndroidRuntime( 2629): 
+09-10 15:27:55.470 D/AndroidRuntime( 2629): >>>>>> AndroidRuntime START com.android.internal.os.RuntimeInit <<<<<<
+09-10 15:27:55.470 D/AndroidRuntime( 2629): CheckJNI is OFF
+09-10 15:27:55.482 D/dalvikvm( 2629): Trying to load lib libjavacore.so 0x0
+09-10 15:27:55.482 D/dalvikvm( 2629): Added shared lib libjavacore.so 0x0
+09-10 15:27:55.490 D/dalvikvm( 2629): Trying to load lib libnativehelper.so 0x0
+09-10 15:27:55.490 D/dalvikvm( 2629): Added shared lib libnativehelper.so 0x0
+09-10 15:27:55.685 D/AndroidRuntime( 2629): Calling main entry com.android.commands.input.Input
+09-10 15:27:55.689 I/Input   ( 2629): InjectKeyEvent: KeyEvent { action=ACTION_DOWN, keyCode=KEYCODE_LEFT_BRACKET, scanCode=0, metaState=0, flags=0x0, repeatCount=0, eventTime=544320, downTime=544320, deviceId=-1, source=0x101 }
+09-10 15:27:55.693 I/Input   ( 2629): InjectKeyEvent: KeyEvent { action=ACTION_UP, keyCode=KEYCODE_LEFT_BRACKET, scanCode=0, metaState=0, flags=0x0, repeatCount=0, eventTime=544320, downTime=544320, deviceId=-1, source=0x101 }
+09-10 15:27:55.697 I/Input   ( 2629): InjectKeyEvent: KeyEvent { action=ACTION_DOWN, keyCode=KEYCODE_SHIFT_LEFT, scanCode=0, metaState=META_SHIFT_ON|META_SHIFT_LEFT_ON, flags=0x0, repeatCount=0, eventTime=544320, downTime=544320, deviceId=-1, source=0x101 }
+09-10 15:27:55.701 I/Input   ( 2629): InjectKeyEvent: KeyEvent { action=ACTION_DOWN, keyCode=KEYCODE_H, scanCode=0, metaState=META_SHIFT_ON|META_SHIFT_LEFT_ON, flags=0x0, repeatCount=0, eventTime=544320, downTime=544320, deviceId=-1, source=0x101 }
+09-10 15:27:55.716 I/Input   ( 2629): InjectKeyEvent: KeyEvent { action=ACTION_UP, keyCode=KEYCODE_H, scanCode=0, metaState=META_SHIFT_ON|META_SHIFT_LEFT_ON, flags=0x0, repeatCount=0, eventTime=544320, downTime=544320, deviceId=-1, source=0x101 }
+09-10 15:27:55.720 I/Input   ( 2629): InjectKeyEvent: KeyEvent { action=ACTION_UP, keyCode=KEYCODE_SHIFT_LEFT, scanCode=0, metaState=0, flags=0x0, repeatCount=0, eventTime=544320, downTime=544320, deviceId=-1, source=0x101 }
+09-10 15:27:55.744 I/Input   ( 2629): InjectKeyEvent: KeyEvent { action=ACTION_DOWN, keyCode=KEYCODE_SHIFT_LEFT, scanCode=0, metaState=META_SHIFT_ON|META_SHIFT_LEFT_ON, flags=0x0, repeatCount=0, eventTime=544320, downTime=544320, deviceId=-1, source=0x101 }
+09-10 15:27:55.747 I/Input   ( 2629): InjectKeyEvent: KeyEvent { action=ACTION_DOWN, keyCode=KEYCODE_D, scanCode=0, metaState=META_SHIFT_ON|META_SHIFT_LEFT_ON, flags=0x0, repeatCount=0, eventTime=544320, downTime=544320, deviceId=-1, source=0x101 }
+09-10 15:27:55.751 I/Input   ( 2629): InjectKeyEvent: KeyEvent { action=ACTION_UP, keyCode=KEYCODE_D, scanCode=0, metaState=META_SHIFT_ON|META_SHIFT_LEFT_ON, flags=0x0, repeatCount=0, eventTime=544320, downTime=544320, deviceId=-1, source=0x101 }
+09-10 15:27:55.755 I/Input   ( 2629): InjectKeyEvent: KeyEvent { action=ACTION_UP, keyCode=KEYCODE_SHIFT_LEFT, scanCode=0, metaState=0, flags=0x0, repeatCount=0, eventTime=544320, downTime=544320, deviceId=-1, source=0x101 }
+09-10 15:27:55.779 I/Input   ( 2629): InjectKeyEvent: KeyEvent { action=ACTION_DOWN, keyCode=KEYCODE_RIGHT_BRACKET, scanCode=0, metaState=0, flags=0x0, repeatCount=0, eventTime=544320, downTime=544320, deviceId=-1, source=0x101 }
+09-10 15:27:55.783 I/Input   ( 2629): InjectKeyEvent: KeyEvent { action=ACTION_UP, keyCode=KEYCODE_RIGHT_BRACKET, scanCode=0, metaState=0, flags=0x0, repeatCount=0, eventTime=544320, downTime=544320, deviceId=-1, source=0x101 }
+09-10 15:27:55.786 D/AndroidRuntime( 2629): Shutting down VM
+09-10 15:27:55.794 D/dalvikvm( 2629): GC_CONCURRENT freed 123K, 83% free 451K/2560K, paused 1ms+1ms, total 5ms
+09-10 15:27:55.798 I/AndroidRuntime( 2629): NOTE: attach of thread 'Binder_3' failed
+09-10 15:27:56.322 D/dalvikvm( 1390): GC_FOR_ALLOC freed 1080K, 16% free 11690K/13831K, paused 28ms, total 29ms
+09-10 15:27:56.693 D/AndroidRuntime( 2644): 
+09-10 15:27:56.693 D/AndroidRuntime( 2644): >>>>>> AndroidRuntime START com.android.internal.os.RuntimeInit <<<<<<
+09-10 15:27:56.693 D/AndroidRuntime( 2644): CheckJNI is OFF
+09-10 15:27:56.701 D/dalvikvm( 2644): Trying to load lib libjavacore.so 0x0
+09-10 15:27:56.704 D/dalvikvm( 2644): Added shared lib libjavacore.so 0x0
+09-10 15:27:56.708 D/dalvikvm( 2644): Trying to load lib libnativehelper.so 0x0
+09-10 15:27:56.708 D/dalvikvm( 2644): Added shared lib libnativehelper.so 0x0
+09-10 15:27:56.915 D/AndroidRuntime( 2644): Calling main entry com.android.commands.input.Input
+09-10 15:27:56.915 I/Input   ( 2644): InjectKeyEvent: KeyEvent { action=ACTION_DOWN, keyCode=KEYCODE_ENTER, scanCode=0, metaState=0, flags=0x0, repeatCount=0, eventTime=545550, downTime=545550, deviceId=-1, source=0x101 }
+09-10 15:27:56.923 I/ActivityManager(  308): START {act=android.intent.action.SEARCH flg=0x10000000 cmp=com.google.android.youtube/.app.honeycomb.Shell$ResultsActivity (has extras) u=0} from pid 1390
+09-10 15:27:56.994 D/dalvikvm(  308): GC_FOR_ALLOC freed 893K, 13% free 13524K/15431K, paused 46ms, total 52ms
+09-10 15:27:57.025 I/Input   ( 2644): InjectKeyEvent: KeyEvent { action=ACTION_UP, keyCode=KEYCODE_ENTER, scanCode=0, metaState=0, flags=0x0, repeatCount=0, eventTime=545550, downTime=545550, deviceId=-1, source=0x101 }
+09-10 15:27:57.177 I/ActivityManager(  308): START {act=android.intent.action.SEARCH cmp=com.google.android.youtube/.app.honeycomb.phone.ResultsActivity (has extras) u=0} from pid 1390
+09-10 15:27:57.294 D/YouTube ( 1390): youtube.core.client.DefaultAnalyticsClient.trackEvent:122 event [version=4.0.8-s100, action=PageView, label=ResultsActivity < HomeActivity, value=-1]
+09-10 15:27:57.298 D/YouTube ( 1390): youtube.core.suggest.HistoryDb.insert:79 History insert display1=big buck bunny [HD] date=1347262077301 query=big buck bunny [HD]
+09-10 15:27:57.361 D/AndroidRuntime( 2644): Shutting down VM
+09-10 15:27:57.369 D/dalvikvm( 2644): GC_CONCURRENT freed 100K, 83% free 449K/2560K, paused 1ms+1ms, total 5ms
+09-10 15:27:57.384 I/InputAttributes(  544): InputType.TYPE_NULL is specified
+09-10 15:27:57.392 I/AndroidRuntime( 2644): NOTE: attach of thread 'Binder_3' failed
+09-10 15:27:57.474 I/ActivityManager(  308): Displayed com.google.android.youtube/.app.honeycomb.phone.ResultsActivity: +277ms (total +428ms)
+09-10 15:27:57.622 E/libEGL  ( 1390): call to OpenGL ES API with no current context (logged once per thread)
+09-10 15:27:59.447 D/dalvikvm( 1390): GC_CONCURRENT freed 1069K, 15% free 11860K/13831K, paused 13ms+5ms, total 49ms
+09-10 15:27:59.451 D/dalvikvm( 1390): WAIT_FOR_CONCURRENT_GC blocked 29ms
+09-10 15:28:02.572 D/dalvikvm( 1390): GC_FOR_ALLOC freed 1156K, 15% free 11782K/13831K, paused 28ms, total 29ms
+09-10 15:28:02.587 D/KEYLOGGER( 2368): // 2. Start to play youtube clip:big buck bunny [HD]
+09-10 15:28:02.747 D/AndroidRuntime( 2665): 
+09-10 15:28:02.747 D/AndroidRuntime( 2665): >>>>>> AndroidRuntime START com.android.internal.os.RuntimeInit <<<<<<
+09-10 15:28:02.747 D/AndroidRuntime( 2665): CheckJNI is OFF
+09-10 15:28:02.759 D/dalvikvm( 2665): Trying to load lib libjavacore.so 0x0
+09-10 15:28:02.763 D/dalvikvm( 2665): Added shared lib libjavacore.so 0x0
+09-10 15:28:02.771 D/dalvikvm( 2665): Trying to load lib libnativehelper.so 0x0
+09-10 15:28:02.771 D/dalvikvm( 2665): Added shared lib libnativehelper.so 0x0
+09-10 15:28:03.033 D/AndroidRuntime( 2665): Calling main entry com.android.commands.input.Input
+09-10 15:28:03.036 I/Input   ( 2665): InjectKeyEvent: KeyEvent { action=ACTION_DOWN, keyCode=KEYCODE_DPAD_DOWN, scanCode=0, metaState=0, flags=0x0, repeatCount=0, eventTime=551668, downTime=551668, deviceId=-1, source=0x101 }
+09-10 15:28:03.044 I/Input   ( 2665): InjectKeyEvent: KeyEvent { action=ACTION_UP, keyCode=KEYCODE_DPAD_DOWN, scanCode=0, metaState=0, flags=0x0, repeatCount=0, eventTime=551668, downTime=551668, deviceId=-1, source=0x101 }
+09-10 15:28:03.048 D/AndroidRuntime( 2665): Shutting down VM
+09-10 15:28:03.052 D/dalvikvm( 2665): GC_CONCURRENT freed 99K, 83% free 449K/2560K, paused 0ms+1ms, total 4ms
+09-10 15:28:03.052 I/AndroidRuntime( 2665): NOTE: attach of thread 'Binder_1' failed
+09-10 15:28:03.443 D/AndroidRuntime( 2676): 
+09-10 15:28:03.443 D/AndroidRuntime( 2676): >>>>>> AndroidRuntime START com.android.internal.os.RuntimeInit <<<<<<
+09-10 15:28:03.443 D/AndroidRuntime( 2676): CheckJNI is OFF
+09-10 15:28:03.454 D/dalvikvm( 2676): Trying to load lib libjavacore.so 0x0
+09-10 15:28:03.462 D/dalvikvm( 2676): Added shared lib libjavacore.so 0x0
+09-10 15:28:03.470 D/dalvikvm( 2676): Trying to load lib libnativehelper.so 0x0
+09-10 15:28:03.470 D/dalvikvm( 2676): Added shared lib libnativehelper.so 0x0
+09-10 15:28:03.720 D/AndroidRuntime( 2676): Calling main entry com.android.commands.input.Input
+09-10 15:28:03.724 I/Input   ( 2676): InjectKeyEvent: KeyEvent { action=ACTION_DOWN, keyCode=KEYCODE_ENTER, scanCode=0, metaState=0, flags=0x0, repeatCount=0, eventTime=552357, downTime=552357, deviceId=-1, source=0x101 }
+09-10 15:28:03.759 I/Input   ( 2676): InjectKeyEvent: KeyEvent { action=ACTION_UP, keyCode=KEYCODE_ENTER, scanCode=0, metaState=0, flags=0x0, repeatCount=0, eventTime=552357, downTime=552357, deviceId=-1, source=0x101 }
+09-10 15:28:03.763 D/AndroidRuntime( 2676): Shutting down VM
+09-10 15:28:03.767 D/dalvikvm( 2676): GC_CONCURRENT freed 100K, 83% free 449K/2560K, paused 0ms+0ms, total 4ms
+09-10 15:28:03.786 D/YouTube ( 1390): youtube.core.suggest.HistoryDb.query:88 History query returning 3 rows
+09-10 15:28:03.790 I/AndroidRuntime( 2676): NOTE: attach of thread 'Binder_3' failed
+09-10 15:28:03.861 W/LatinIME(  544): Deprecated private IME option specified: nm
+09-10 15:28:03.861 W/LatinIME(  544): Use com.google.android.inputmethod.latin.noMicrophoneKey instead
+09-10 15:28:04.079 D/dalvikvm(  544): GC_CONCURRENT freed 498K, 6% free 9649K/10247K, paused 12ms+16ms, total 161ms
+09-10 15:28:04.189 D/dalvikvm(  308): GC_CONCURRENT freed 1265K, 13% free 13558K/15431K, paused 4ms+27ms, total 231ms
+09-10 15:28:05.689 D/dalvikvm( 1390): GC_CONCURRENT freed 1081K, 14% free 11975K/13831K, paused 13ms+3ms, total 52ms
+09-10 15:28:05.689 D/dalvikvm( 1390): WAIT_FOR_CONCURRENT_GC blocked 25ms
+09-10 15:28:08.841 D/dalvikvm( 1390): GC_FOR_ALLOC freed 1058K, 14% free 11957K/13831K, paused 31ms, total 31ms
+09-10 15:28:11.962 D/dalvikvm( 1390): GC_FOR_ALLOC freed 1026K, 14% free 11955K/13831K, paused 56ms, total 57ms
+09-10 15:28:15.036 D/dalvikvm( 1390): GC_FOR_ALLOC freed 1033K, 14% free 11955K/13831K, paused 39ms, total 39ms
+09-10 15:28:17.322 W/YouTube ( 1390): youtube.core.ui.PagedViewHelper.onError:266 Error for request {uri='http://gdata.youtube.com/feeds/api/videos?q=big%20buck%20bunny%20%5BHD%5D&time=all_time&format=2%2C3%2C8%2C9&start-index=1&max-results=18&safeSearch=moderate&restriction=US', userAuth='null', headers='{}', content='null'} : java.net.SocketTimeoutException
+09-10 15:28:17.501 W/YouTube ( 1390): youtube.core.ui.PagedViewHelper.onError:266 Error for request {uri='http://gdata.youtube.com/feeds/api/videos?q=big%20buck%20bunny%20%5BHD%5D&time=all_time&format=2%2C3%2C8%2C9&start-index=1&max-results=18&safeSearch=moderate&restriction=US', userAuth='null', headers='{}', content='null'} : java.net.SocketTimeoutException
+09-10 15:28:18.165 D/dalvikvm( 1390): GC_FOR_ALLOC freed 1124K, 14% free 11899K/13831K, paused 76ms, total 76ms
+09-10 15:28:21.228 D/dalvikvm( 1390): GC_FOR_ALLOC freed 1072K, 14% free 11898K/13831K, paused 31ms, total 31ms
+09-10 15:28:24.341 D/dalvikvm( 1390): GC_FOR_ALLOC freed 1098K, 15% free 11894K/13831K, paused 38ms, total 38ms
+09-10 15:28:27.478 D/dalvikvm( 1390): GC_FOR_ALLOC freed 1085K, 14% free 11898K/13831K, paused 75ms, total 75ms
+09-10 15:28:30.568 D/dalvikvm( 1390): GC_FOR_ALLOC freed 1070K, 14% free 11898K/13831K, paused 32ms, total 32ms
+09-10 15:28:33.693 D/dalvikvm( 1390): GC_FOR_ALLOC freed 1099K, 15% free 11894K/13831K, paused 76ms, total 77ms
+09-10 15:28:33.755 D/dalvikvm( 1390): GC_FOR_ALLOC freed 1056K, 14% free 11903K/13831K, paused 29ms, total 30ms
+09-10 15:28:33.986 D/KEYLOGGER( 2368): // 3. Back to home screen.
+09-10 15:28:34.146 D/AndroidRuntime( 2721): 
+09-10 15:28:34.146 D/AndroidRuntime( 2721): >>>>>> AndroidRuntime START com.android.internal.os.RuntimeInit <<<<<<
+09-10 15:28:34.146 D/AndroidRuntime( 2721): CheckJNI is OFF
+09-10 15:28:34.158 D/dalvikvm( 2721): Trying to load lib libjavacore.so 0x0
+09-10 15:28:34.161 D/dalvikvm( 2721): Added shared lib libjavacore.so 0x0
+09-10 15:28:34.165 D/dalvikvm( 2721): Trying to load lib libnativehelper.so 0x0
+09-10 15:28:34.165 D/dalvikvm( 2721): Added shared lib libnativehelper.so 0x0
+09-10 15:28:34.361 D/AndroidRuntime( 2721): Calling main entry com.android.commands.input.Input
+09-10 15:28:34.365 I/Input   ( 2721): InjectKeyEvent: KeyEvent { action=ACTION_DOWN, keyCode=KEYCODE_BACK, scanCode=0, metaState=0, flags=0x0, repeatCount=0, eventTime=582996, downTime=582996, deviceId=-1, source=0x101 }
+09-10 15:28:34.365 I/Input   ( 2721): InjectKeyEvent: KeyEvent { action=ACTION_UP, keyCode=KEYCODE_BACK, scanCode=0, metaState=0, flags=0x0, repeatCount=0, eventTime=582996, downTime=582996, deviceId=-1, source=0x101 }
+09-10 15:28:34.408 D/AndroidRuntime( 2721): Shutting down VM
+09-10 15:28:34.419 D/dalvikvm( 2721): GC_CONCURRENT freed 100K, 83% free 449K/2560K, paused 1ms+0ms, total 5ms
+09-10 15:28:34.423 I/AndroidRuntime( 2721): NOTE: attach of thread 'Binder_3' failed
+09-10 15:28:34.540 D/dalvikvm(  308): GC_CONCURRENT freed 1252K, 12% free 13598K/15431K, paused 4ms+22ms, total 165ms
+09-10 15:28:34.767 D/AndroidRuntime( 2735): 
+09-10 15:28:34.767 D/AndroidRuntime( 2735): >>>>>> AndroidRuntime START com.android.internal.os.RuntimeInit <<<<<<
+09-10 15:28:34.767 D/AndroidRuntime( 2735): CheckJNI is OFF
+09-10 15:28:34.775 D/dalvikvm( 2735): Trying to load lib libjavacore.so 0x0
+09-10 15:28:34.779 D/dalvikvm( 2735): Added shared lib libjavacore.so 0x0
+09-10 15:28:34.786 D/dalvikvm( 2735): Trying to load lib libnativehelper.so 0x0
+09-10 15:28:34.786 D/dalvikvm( 2735): Added shared lib libnativehelper.so 0x0
+09-10 15:28:34.970 D/AndroidRuntime( 2735): Calling main entry com.android.commands.input.Input
+09-10 15:28:34.974 I/Input   ( 2735): InjectKeyEvent: KeyEvent { action=ACTION_DOWN, keyCode=KEYCODE_BACK, scanCode=0, metaState=0, flags=0x0, repeatCount=0, eventTime=583605, downTime=583605, deviceId=-1, source=0x101 }
+09-10 15:28:34.978 I/Input   ( 2735): InjectKeyEvent: KeyEvent { action=ACTION_UP, keyCode=KEYCODE_BACK, scanCode=0, metaState=0, flags=0x0, repeatCount=0, eventTime=583605, downTime=583605, deviceId=-1, source=0x101 }
+09-10 15:28:34.990 D/AndroidRuntime( 2735): Shutting down VM
+09-10 15:28:35.005 D/dalvikvm( 2735): GC_CONCURRENT freed 100K, 83% free 449K/2560K, paused 1ms+0ms, total 4ms
+09-10 15:28:35.013 I/AndroidRuntime( 2735): NOTE: attach of thread 'Binder_3' failed
+09-10 15:28:35.376 D/AndroidRuntime( 2748): 
+09-10 15:28:35.376 D/AndroidRuntime( 2748): >>>>>> AndroidRuntime START com.android.internal.os.RuntimeInit <<<<<<
+09-10 15:28:35.376 D/AndroidRuntime( 2748): CheckJNI is OFF
+09-10 15:28:35.388 D/dalvikvm( 2748): Trying to load lib libjavacore.so 0x0
+09-10 15:28:35.388 D/dalvikvm( 2748): Added shared lib libjavacore.so 0x0
+09-10 15:28:35.396 D/dalvikvm( 2748): Trying to load lib libnativehelper.so 0x0
+09-10 15:28:35.396 D/dalvikvm( 2748): Added shared lib libnativehelper.so 0x0
+09-10 15:28:35.579 D/AndroidRuntime( 2748): Calling main entry com.android.commands.input.Input
+09-10 15:28:35.583 I/Input   ( 2748): InjectKeyEvent: KeyEvent { action=ACTION_DOWN, keyCode=KEYCODE_BACK, scanCode=0, metaState=0, flags=0x0, repeatCount=0, eventTime=584214, downTime=584214, deviceId=-1, source=0x101 }
+09-10 15:28:35.587 I/Input   ( 2748): InjectKeyEvent: KeyEvent { action=ACTION_UP, keyCode=KEYCODE_BACK, scanCode=0, metaState=0, flags=0x0, repeatCount=0, eventTime=584214, downTime=584214, deviceId=-1, source=0x101 }
+09-10 15:28:35.615 D/AndroidRuntime( 2748): Shutting down VM
+09-10 15:28:35.630 D/YouTube ( 1390): youtube.core.client.DefaultAnalyticsClient.trackEvent:122 event [version=4.0.8-s100, action=PageView, label=HomeActivity < ResultsActivity, value=-1]
+09-10 15:28:35.658 D/dalvikvm( 2748): GC_CONCURRENT freed 100K, 83% free 449K/2560K, paused 1ms+0ms, total 4ms
+09-10 15:28:35.669 I/AndroidRuntime( 2748): NOTE: attach of thread 'Binder_3' failed
+09-10 15:28:35.736 D/YouTube ( 1390): youtube.core.client.DefaultAnalyticsClient.trackEvent:122 event [version=4.0.8-s100, action=GuideSubscriptionsInit, label=-, value=0]
+09-10 15:28:36.040 D/AndroidRuntime( 2760): 
+09-10 15:28:36.040 D/AndroidRuntime( 2760): >>>>>> AndroidRuntime START com.android.internal.os.RuntimeInit <<<<<<
+09-10 15:28:36.044 D/AndroidRuntime( 2760): CheckJNI is OFF
+09-10 15:28:36.060 D/dalvikvm( 2760): Trying to load lib libjavacore.so 0x0
+09-10 15:28:36.068 D/dalvikvm( 2760): Added shared lib libjavacore.so 0x0
+09-10 15:28:36.076 D/dalvikvm( 2760): Trying to load lib libnativehelper.so 0x0
+09-10 15:28:36.076 D/dalvikvm( 2760): Added shared lib libnativehelper.so 0x0
+09-10 15:28:36.267 D/AndroidRuntime( 2760): Calling main entry com.android.commands.input.Input
+09-10 15:28:36.271 I/Input   ( 2760): InjectKeyEvent: KeyEvent { action=ACTION_DOWN, keyCode=KEYCODE_HOME, scanCode=0, metaState=0, flags=0x0, repeatCount=0, eventTime=584902, downTime=584902, deviceId=-1, source=0x101 }
+09-10 15:28:36.275 I/Input   ( 2760): InjectKeyEvent: KeyEvent { action=ACTION_UP, keyCode=KEYCODE_HOME, scanCode=0, metaState=0, flags=0x0, repeatCount=0, eventTime=584902, downTime=584902, deviceId=-1, source=0x101 }
+09-10 15:28:36.279 I/ActivityManager(  308): START {act=android.intent.action.MAIN cat=[android.intent.category.HOME] flg=0x10200000 cmp=com.android.launcher/com.android.launcher2.Launcher u=0} from pid 308
+09-10 15:28:36.349 D/dalvikvm(  308): GC_FOR_ALLOC freed 439K, 13% free 13482K/15431K, paused 49ms, total 52ms
+09-10 15:28:36.369 D/AndroidRuntime( 2760): Shutting down VM
+09-10 15:28:36.376 D/dalvikvm( 2760): GC_CONCURRENT freed 100K, 83% free 449K/2560K, paused 0ms+1ms, total 3ms
+09-10 15:28:36.392 I/AndroidRuntime( 2760): NOTE: attach of thread 'Binder_3' failed
+09-10 15:28:36.931 D/dalvikvm( 1390): GC_CONCURRENT freed 1201K, 14% free 11912K/13831K, paused 13ms+6ms, total 70ms
+09-10 15:28:36.931 D/dalvikvm( 1390): WAIT_FOR_CONCURRENT_GC blocked 54ms
+09-10 15:28:36.954 D/AtHomeMediaRouter( 1390): Clear all routes.
+09-10 15:28:36.958 D/YouTube ( 1390): youtube.app.remote.AtHomeConnection.updateState:113 AtHomeConnection state changed: DISCONNECTED
+09-10 15:28:37.798 D/AndroidRuntime( 2775): 
+09-10 15:28:37.798 D/AndroidRuntime( 2775): >>>>>> AndroidRuntime START com.android.internal.os.RuntimeInit <<<<<<
+09-10 15:28:37.798 D/AndroidRuntime( 2775): CheckJNI is OFF
+09-10 15:28:37.810 D/dalvikvm( 2775): Trying to load lib libjavacore.so 0x0
+09-10 15:28:37.814 D/dalvikvm( 2775): Added shared lib libjavacore.so 0x0
+09-10 15:28:37.818 D/dalvikvm( 2775): Trying to load lib libnativehelper.so 0x0
+09-10 15:28:37.818 D/dalvikvm( 2775): Added shared lib libnativehelper.so 0x0
+09-10 15:28:38.009 D/AndroidRuntime( 2775): Calling main entry com.android.commands.am.Am
+09-10 15:28:38.017 D/CheckStatusActivity( 2383): onStartCommand
+09-10 15:28:38.017 D/CheckStatusActivity( 2383): dataUri: replayOver
+09-10 15:28:38.021 D/AndroidRuntime( 2775): Shutting down VM
+09-10 15:28:38.029 D/dalvikvm( 2775): GC_CONCURRENT freed 101K, 82% free 484K/2560K, paused 0ms+1ms, total 4ms
+09-10 15:28:38.029 D/CheckStatusActivity( 2383): onDestroy
+09-10 15:28:38.279 D/KEYLOGGER( 2368): Memory option is closing
+09-10 15:28:38.384 D/AndroidRuntime( 2787): 
+09-10 15:28:38.384 D/AndroidRuntime( 2787): >>>>>> AndroidRuntime START com.android.internal.os.RuntimeInit <<<<<<
+09-10 15:28:38.384 D/AndroidRuntime( 2787): CheckJNI is OFF
+09-10 15:28:38.392 D/dalvikvm( 2787): Trying to load lib libjavacore.so 0x0
+09-10 15:28:38.396 D/dalvikvm( 2787): Added shared lib libjavacore.so 0x0
+09-10 15:28:38.404 D/dalvikvm( 2787): Trying to load lib libnativehelper.so 0x0
+09-10 15:28:38.404 D/dalvikvm( 2787): Added shared lib libnativehelper.so 0x0
+09-10 15:28:38.595 D/AndroidRuntime( 2787): Calling main entry com.android.commands.am.Am
+09-10 15:28:38.607 D/MemoryLogService( 1825): dataUri: memScan
+09-10 15:28:38.607 D/TM      ( 1825): 359854080
+09-10 15:28:38.607 D/HelloActivityActivity( 1825): Threshold 39352320
+09-10 15:28:38.611 D/importance( 1825): 100
+09-10 15:28:38.611 D/AndroidRuntime( 2787): Shutting down VM
+09-10 15:28:38.626 D/dalvikvm( 2787): GC_CONCURRENT freed 100K, 82% free 485K/2560K, paused 0ms+1ms, total 4ms
+09-10 15:28:38.626 I/AndroidRuntime( 2787): NOTE: attach of thread 'Binder_2' failed
+09-10 15:28:38.685 D/importance( 1825): 100
+09-10 15:28:38.716 D/importance( 1825): 400
+09-10 15:28:38.744 D/importance( 1825): 100
+09-10 15:28:38.814 D/importance( 1825): 100

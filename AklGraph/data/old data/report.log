@@ -1,0 +1,23 @@
+2012-06-28 11:50:21	[Test group]:aklTest
+2012-06-28 11:50:21	Start group test for round 1.
+2012-06-28 11:50:21	[Test Case]:test
+2012-06-28 11:50:21	Start test case in 1-th
+2012-06-28 11:50:30	do some thing
+2012-06-28 11:50:33	input text test
+2012-06-28 11:50:33	End test case
+2012-06-28 11:50:39	[Test Case]:test
+2012-06-28 11:50:39	Start test case in 2-th
+2012-06-28 11:50:52	input text test
+2012-06-28 11:50:52	End test case
+2012-06-28 11:50:58	End group test for round 1.
+2012-06-28 11:50:58	[Test group]:aklTest
+2012-06-28 11:50:58	Start group test for round 2.
+2012-06-28 11:50:58	[Test Case]:test
+2012-06-28 11:50:58	Start test case in 1-th
+2012-06-28 11:51:10	input text test
+2012-06-28 11:51:11	End test case
+2012-06-28 11:51:17	[Test Case]:test
+2012-06-28 11:51:17	Start test case in 2-th
+2012-06-28 11:51:29	input text test
+2012-06-28 11:51:30	End test case
+2012-06-28 11:51:36	End group test for round 2.

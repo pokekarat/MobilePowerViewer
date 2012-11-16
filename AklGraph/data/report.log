@@ -1,0 +1,12 @@
+2012-09-19 16:05:46	[Test group]:aklTest
+2012-09-19 16:05:46	Start group test for round 1.
+2012-09-19 16:05:46	[Test Case]:youtube
+2012-09-19 16:05:46	Start test case in 1-th
+2012-09-19 16:05:49	1. Launch Angry Bird
+2012-09-19 16:05:59	2. Touch Start button
+2012-09-19 16:06:15	3. Wait checkbox
+2012-09-19 16:06:30	4. Touch check icon
+2012-09-19 16:06:40	5. Fire bird
+2012-09-19 16:06:58	6. Back to home screen
+2012-09-19 16:07:18	End test case
+2012-09-19 16:07:19	End group test for round 1.
