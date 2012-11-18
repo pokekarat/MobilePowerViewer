@@ -10,6 +10,7 @@ import javax.swing.JPanel;
 import javax.swing.JScrollPane;
 import javax.swing.JTextArea;
 import javax.swing.JLabel;
+import javax.swing.JViewport;
 
 import java.io.IOException;
 import java.util.*;
@@ -70,12 +71,11 @@ public class GraphPanel extends JPanel{
 		
 		//ta.setLineWrap(true);
 		sbrText = new JScrollPane(ta);
-		sbrText.setVerticalScrollBarPolicy(JScrollPane.VERTICAL_SCROLLBAR_ALWAYS);       
+		sbrText.setVerticalScrollBarPolicy(JScrollPane.VERTICAL_SCROLLBAR_ALWAYS);
 		sbrText.setBounds(offsetX, offsetY + 60, w, 250);		 
 		sbrText.setSize(900,250);
+		sbrText.getVerticalScrollBar().setValue(0);
 		
-		
-			
 		//CheckBox 
 		int xPos = 220;
 		int yPos = 60;
@@ -118,11 +118,10 @@ public class GraphPanel extends JPanel{
 	    reportlb.setOpaque(true);
 	    reportlb.setBackground(c);
 	    
-	    
 	    powerPanel = new PowerPanel(w ,h,ta,points,lines);
 	    powerPanel.setOpaque(true);
 	    powerPanel.setBackground(Color.white);
-	    powerPanel.setBounds(100,25,w - 150,h/2+2);
+	    powerPanel.setBounds(98,10,w - 145,h/2+2);
 	    	    
 	    //this.add(hbar);//, BorderLayout.SOUTH);
 	  	this.add(powerPanel);
@@ -381,6 +380,7 @@ public class GraphPanel extends JPanel{
 	}
 	
 	int[] chArr = {1,1,1};
+	public String[] info = new String[4];
 	class CheckBoxListener implements ItemListener {
 		
 	        public void itemStateChanged(ItemEvent e) 
@@ -407,9 +407,31 @@ public class GraphPanel extends JPanel{
 	            	
 	            }
 	            
-	            System.out.println(chArr[0]+","+chArr[1]+","+chArr[2]);
-	            ta.setText("Null");
+	            powerPanel._chArr[0] = chArr[0];
+	            powerPanel._chArr[1] = chArr[1];
+	            powerPanel._chArr[2] = chArr[2];
 	            
+	         
+    			info[0] = powerPanel.info[1];
+    			
+    			if(chArr[0] == 1)
+    				  info[0] = powerPanel.info[1];
+    			else
+   				  info[0] = "";
+    			  
+    			if(chArr[1] == 1)
+  				  info[1] = powerPanel.info[2];
+    			else
+ 				  info[1] = "";
+	            
+    			if(chArr[2] == 1)
+  				  info[2] = powerPanel.info[3];
+    			else
+ 				  info[2] = "";
+    			
+	            ta.setText(info[0]+info[1]+info[2]+info[3]);
+	            ta.setSelectionStart(0);
+      			ta.setSelectionEnd(0);
 	        }
 	    }
 	 

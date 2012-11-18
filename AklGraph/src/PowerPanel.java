@@ -36,11 +36,8 @@ public class PowerPanel extends JPanel{
 	Dimension d;
 	
 	JScrollPane sbrText; // Scroll pane for text area
-	
 	JScrollBar hbar;
 	JLabel  mainlb;
-	
-	public String outputTxt = "";
 	
 	public PowerPanel(int w, int h,final JTextArea ta, Vector<Point> points, Vector<Line> lines)
 	{
@@ -66,7 +63,7 @@ public class PowerPanel extends JPanel{
 		
 		
 		//Scrollbar
-		hbar = new JScrollBar(JScrollBar.HORIZONTAL, 0, 20, 0, 20000); //1000 change viewable horizontal
+		hbar = new JScrollBar(JScrollBar.HORIZONTAL, 0, 1000, 0, 20000); //1000 change viewable horizontal
 		hbar.setUnitIncrement(2);
 	    hbar.setBlockIncrement(1);
 	    hbar.setBounds(left,top * 9 + 22,left * 20 - 270,20);
@@ -84,7 +81,8 @@ public class PowerPanel extends JPanel{
 		   
 	}
 	
-	int[] chArr = {1,1,1};
+	public int[] _chArr = {1,1,1};
+	public String[] info = new String[4];
 	public void ClickButtonInGraph(int clickX, int clickY, JTextArea ta){
 		
 		 //System.out.println("test click");	
@@ -107,28 +105,32 @@ public class PowerPanel extends JPanel{
       		   if(clickX > pX - adjx && clickX < pX - adjx + p.hitSize && clickY > pY && clickY < pY + p.hitSize)
       		   {	
       			  p.isClick = true; 
-      			  String text = p.info[0];
+      			  info[0] = p.info[0];
 
-      			  if(chArr[0] == 1)
-      				  text += p.info[1];
+      			  if(_chArr[0] == 1)
+      				  info[1] = p.info[1];
+      			  else
+      				  info[1] = "";
       				  
-      			  if(chArr[1] == 1)
-      				  text += p.info[2];
+      			  if(_chArr[1] == 1)
+      				  info[2] = p.info[2];
+      			 else
+     				  info[2] = "";
       			  
-      			  if(chArr[2] == 1)
-      				  text += p.info[3];
+      			  if(_chArr[2] == 1)
+      				  info[3] = p.info[3];
+      			 else
+     				  info[3] = "";
       			
-      			outputTxt = text;
-      			System.out.println(outputTxt);
-      			ta.setText(text);
-      			
+      			ta.setText(info[0]+info[1]+info[2]+info[3]);
+      			ta.setSelectionStart(0);
+      			ta.setSelectionEnd(0);
       		   }
       		   else
       		   {
       			   p.isClick = false;
       		   }
-      		   
-      		  
+
       		   this.repaint();
       	    }
          }
@@ -186,15 +188,29 @@ public class PowerPanel extends JPanel{
 		}
 		
 		//Draw power signal
-		if(_lines.size() > 0){		
-			for(int i=0; i<_lines.size(); i++)
+		if(_lines.size() > 0){
+			Polygon polygon = new Polygon();
+			int lineSize = _lines.size();
+			Line l = new Line();
+			int last_i = 0;
+			for(int i=1; i<lineSize; i++)
 			{
-				Line l = _lines.elementAt(i);
+				l = _lines.elementAt(i);
 				l.adjustX = adjustX + 70;
-				int dist = l.p1.xCor - l.adjustX;
-				if(dist > left && dist < panelWidth)
+				int distx = l.p1.xCor - l.adjustX;
+				int disty = l.p1.yCor;
+				if(distx > left && distx < panelWidth && disty < bottom){
 					_lines.elementAt(i).paint(g);
+					polygon.addPoint(l.p1.xCor-l.adjustX, l.p1.yCor);
+					last_i = i;
+				}
 			}
+			l = _lines.elementAt(last_i);
+			polygon.addPoint(l.p1.xCor-l.adjustX, bottom-1);
+			polygon.addPoint(left+1, bottom-1);
+			//System.out.println(last_i);
+			g.setColor(Color.cyan);
+			g.fillPolygon(polygon);
 		}
 		
 		/* Draw clickbutton inside power signal */
@@ -214,7 +230,6 @@ public class PowerPanel extends JPanel{
 		}
 		
 		g.setColor(Color.black);
-		//g.setFont(font);
 		g.drawString("Current(mA)", left-50, 30); 
 		g.drawString("Time(S)", right+10, d.height-top);
 	}

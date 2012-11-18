@@ -8,7 +8,7 @@ public class AklGraph{
     public JPanel createContentPane(int x, int y){
        
         GraphPanel dl = new GraphPanel(x,y);
-        dl.setBackground(Color.lightGray);
+        dl.setBackground(Color.gray);
         dl.setOpaque(true);    
         return dl;  
         
