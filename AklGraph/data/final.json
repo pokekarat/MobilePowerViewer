@@ -1,0 +1,349 @@
+{
+	"students": 
+	[
+		{
+			"image": 
+			{
+			  "img1":"https://github.com/pokekarat/MobilePowerViewer/blob/master/AklGraph/data/3.jpg",
+			  "img2":"https://github.com/pokekarat/MobilePowerViewer/blob/master/AklGraph/data/1.jpg",
+			  "img3":"https://github.com/pokekarat/MobilePowerViewer/blob/master/AklGraph/data/5.jpg"
+			},
+			"id": 
+			{
+			    "id0":
+			    {
+			      "id1":"x",
+			      "id2":"551211303"
+			    },
+			    "id3":"z"
+			},
+			"major": ["MT",["IT","CE"]],
+			"friend": "3"
+		},
+		{
+			"id": 
+			{
+			    "id0":
+			    {
+			      "id1":"561210105",
+			      "id2":"y"
+			    },
+			    "id3":"z"
+			},
+			"major": ["MT",["IT","CE"]],
+			"friend": "551211303",
+			"image": 
+			{
+			  "img1":"https://github.com/pokekarat/MobilePowerViewer/blob/master/AklGraph/data/2.jpg",
+			  "img2":"https://github.com/pokekarat/MobilePowerViewer/blob/master/AklGraph/data/3.jpg",
+			  "img3":"https://github.com/pokekarat/MobilePowerViewer/blob/master/AklGraph/data/4.jpg"
+			}
+		},
+		{
+			"major": ["MT",["IT","CE"]],
+			"friend": "571220540",
+			"image": 
+			{
+			  "img1":"https://github.com/pokekarat/MobilePowerViewer/blob/master/AklGraph/data/3.jpg",
+			  "img2":"https://github.com/pokekarat/MobilePowerViewer/blob/master/AklGraph/data/9.jpg",
+			  "img3":"https://github.com/pokekarat/MobilePowerViewer/blob/master/AklGraph/data/6.jpg"
+			},
+			"id": 
+			{
+			    "id0":
+			    {
+			      "id1":"x",
+			      "id2":"y"
+			    },
+			    "id3":"561210709"
+			}
+		},
+		{
+			
+			"friend": "571220201",
+			"image": 
+			{
+			  "img1":"https://github.com/pokekarat/MobilePowerViewer/blob/master/AklGraph/data/3.jpg",
+			  "img2":"https://github.com/pokekarat/MobilePowerViewer/blob/master/AklGraph/data/9.jpg",
+			  "img3":"https://github.com/pokekarat/MobilePowerViewer/blob/master/AklGraph/data/4.jpg"
+			},
+			"id": 
+			{
+			    "id0":
+			    {
+			      "id1":"561220500",
+			      "id2":"y"
+			    },
+			    "id3":"z"
+			},
+			"major": ["MT",["IT","CE"]]
+		},
+		{
+			"image": 
+			{
+			  "img1":"https://github.com/pokekarat/MobilePowerViewer/blob/master/AklGraph/data/12.jpg",
+			  "img2":"https://github.com/pokekarat/MobilePowerViewer/blob/master/AklGraph/data/10.jpg",
+			  "img3":"https://github.com/pokekarat/MobilePowerViewer/blob/master/AklGraph/data/5.jpg"
+			},
+			"id": 
+			{
+			    "id0":
+			    {
+			      "id1":"x",
+			      "id2":"561220807"
+			    },
+			    "id3":"z"
+			},
+			"major": ["MT",["CE","IT"]],
+			"friend": "571220706"
+		},
+		{
+			"id": 
+			{
+			    "id0":
+			    {
+			      "id1":"561220344",
+			      "id2":"y"
+			    },
+			    "id3":"z"
+			},
+			"major": ["CE",["MT","IT"]],
+			"friend": "571221290",
+			"image":
+			{
+			  "img1":"https://github.com/pokekarat/MobilePowerViewer/blob/master/AklGraph/data/1.jpg",
+			  "img2":"https://github.com/pokekarat/MobilePowerViewer/blob/master/AklGraph/data/2.jpg",
+			  "img3":"https://github.com/pokekarat/MobilePowerViewer/blob/master/AklGraph/data/8.jpg"
+			}
+		},
+		{
+			"major": ["IT",["CE","MT"]],
+			"friend": "571220011",
+			"image": 
+			{
+			  "img1":"https://github.com/pokekarat/MobilePowerViewer/blob/master/AklGraph/data/3.jpg",
+			  "img2":"https://github.com/pokekarat/MobilePowerViewer/blob/master/AklGraph/data/5.jpg",
+			  "img3":"https://github.com/pokekarat/MobilePowerViewer/blob/master/AklGraph/data/6.jpg"
+			},
+			"id": 
+			{
+			    "id0":
+			    {
+			      "id1":"x",
+			      "id2":"y"
+			    },
+			    "id3":"561210907"
+			}
+		},
+		{
+			"friend": "571221175",
+			"image": 
+			{
+			  "img1":"https://github.com/pokekarat/MobilePowerViewer/blob/master/AklGraph/data/3.jpg",
+			  "img2":"https://github.com/pokekarat/MobilePowerViewer/blob/master/AklGraph/data/9.jpg",
+			  "img3":"https://github.com/pokekarat/MobilePowerViewer/blob/master/AklGraph/data/4.jpg"
+			},
+			"id": 
+			{
+			    "id0":
+			    {
+			      "id1":"561210451",
+			      "id2":"y"
+			    },
+			    "id3":"z"
+			},
+			"major": ["MT",["IT","CE"]]
+		},
+		{
+			"image": 
+			{
+			  "img1":"https://github.com/pokekarat/MobilePowerViewer/blob/master/AklGraph/data/6.jpg",
+			  "img2":"https://github.com/pokekarat/MobilePowerViewer/blob/master/AklGraph/data/1.jpg",
+			  "img3":"https://github.com/pokekarat/MobilePowerViewer/blob/master/AklGraph/data/5.jpg"
+			},
+			"id": 
+			{
+			    "id0":
+			    {
+			      "id1":"x",
+			      "id2":"561218041"
+			    },
+			    "id3":"z"
+			},
+			"major": ["MT",["IT","CE"]],
+			"friend": "571220508"
+		},
+		{
+			"id": 
+			{
+			    "id0":
+			    {
+			      "id1":"551220262",
+			      "id2":"y"
+			    },
+			    "id3":"z"
+			},
+			"major": ["MT",["IT","CE"]],
+			"friend": "571220862",
+			"image": 
+			{
+			  "img1":"https://github.com/pokekarat/MobilePowerViewer/blob/master/AklGraph/data/2.jpg",
+			  "img2":"https://github.com/pokekarat/MobilePowerViewer/blob/master/AklGraph/data/7.jpg",
+			  "img3":"https://github.com/pokekarat/MobilePowerViewer/blob/master/AklGraph/data/4.jpg"
+			}
+		},
+				{
+			"major": ["MT",["IT","CE"]],
+			"friend": "561220807",
+			"image": 
+			{
+			  "img1":"https://github.com/pokekarat/MobilePowerViewer/blob/master/AklGraph/data/3.jpg",
+			  "img2":"https://github.com/pokekarat/MobilePowerViewer/blob/master/AklGraph/data/9.jpg",
+			  "img3":"https://github.com/pokekarat/MobilePowerViewer/blob/master/AklGraph/data/16.jpg"
+			},
+			"id": 
+			{
+			    "id0":
+			    {
+			      "id1":"x",
+			      "id2":"y"
+			    },
+			    "id3":"571220862"
+			}
+		},
+		{
+			
+			"friend": "561210105",
+			"image": 
+			{
+			  "img1":"https://github.com/pokekarat/MobilePowerViewer/blob/master/AklGraph/data/3.jpg",
+			  "img2":"https://github.com/pokekarat/MobilePowerViewer/blob/master/AklGraph/data/13.jpg",
+			  "img3":"https://github.com/pokekarat/MobilePowerViewer/blob/master/AklGraph/data/4.jpg"
+			},
+			"id": 
+			{
+			    "id0":
+			    {
+			      "id1":"571220508",
+			      "id2":"y"
+			    },
+			    "id3":"z"
+			},
+			"major": ["MT",["IT","CE"]]
+		},
+		{
+			"image": 
+			{
+			  "img1":"https://github.com/pokekarat/MobilePowerViewer/blob/master/AklGraph/data/12.jpg",
+			  "img2":"https://github.com/pokekarat/MobilePowerViewer/blob/master/AklGraph/data/10.jpg",
+			  "img3":"https://github.com/pokekarat/MobilePowerViewer/blob/master/AklGraph/data/17.jpg"
+			},
+			"id": 
+			{
+			    "id0":
+			    {
+			      "id1":"x",
+			      "id2":"571221175"
+			    },
+			    "id3":"z"
+			},
+			"major": ["MT",["CE","IT"]],
+			"friend": "561220500"
+		},
+		{
+			"id": 
+			{
+			    "id0":
+			    {
+			      "id1":"571220011",
+			      "id2":"y"
+			    },
+			    "id3":"z"
+			},
+			"major": ["CE",["MT","IT"]],
+			"friend": "561210709",
+			"image":
+			{
+			  "img1":"https://github.com/pokekarat/MobilePowerViewer/blob/master/AklGraph/data/1.jpg",
+			  "img2":"https://github.com/pokekarat/MobilePowerViewer/blob/master/AklGraph/data/2.jpg",
+			  "img3":"https://github.com/pokekarat/MobilePowerViewer/blob/master/AklGraph/data/11.jpg"
+			}
+		},
+		{
+			"major": ["IT",["CE","MT"]],
+			"friend": "551211303",
+			"image": 
+			{
+			  "img1":"https://github.com/pokekarat/MobilePowerViewer/blob/master/AklGraph/data/18.jpg",
+			  "img2":"https://github.com/pokekarat/MobilePowerViewer/blob/master/AklGraph/data/5.jpg",
+			  "img3":"https://github.com/pokekarat/MobilePowerViewer/blob/master/AklGraph/data/6.jpg"
+			},
+			"id": 
+			{
+			    "id0":
+			    {
+			      "id1":"x",
+			      "id2":"y"
+			    },
+			    "id3":"571221290"
+			}
+		},
+		{
+			"friend": "561210451",
+			"image": 
+			{
+			  "img1":"https://github.com/pokekarat/MobilePowerViewer/blob/master/AklGraph/data/3.jpg",
+			  "img2":"https://github.com/pokekarat/MobilePowerViewer/blob/master/AklGraph/data/9.jpg",
+			  "img3":"https://github.com/pokekarat/MobilePowerViewer/blob/master/AklGraph/data/14.jpg"
+			},
+			"id": 
+			{
+			    "id0":
+			    {
+			      "id1":"571220540",
+			      "id2":"y"
+			    },
+			    "id3":"z"
+			},
+			"major": ["MT",["IT","CE"]]
+		},
+		{
+			"image": 
+			{
+			  "img1":"https://github.com/pokekarat/MobilePowerViewer/blob/master/AklGraph/data/12.jpg",
+			  "img2":"https://github.com/pokekarat/MobilePowerViewer/blob/master/AklGraph/data/1.jpg",
+			  "img3":"https://github.com/pokekarat/MobilePowerViewer/blob/master/AklGraph/data/5.jpg"
+			},
+			"id": 
+			{
+			    "id0":
+			    {
+			      "id1":"x",
+			      "id2":"571220201"
+			    },
+			    "id3":"z"
+			},
+			"major": ["MT",["IT","CE"]],
+			"friend": "561220344"
+		},
+		{
+			"id": 
+			{
+			    "id0":
+			    {
+			      "id1":"571220706",
+			      "id2":"y"
+			    },
+			    "id3":"z"
+			},
+			"major": ["MT",["IT","CE"]],
+			"friend": "561218041",
+			"image": 
+			{
+			  "img1":"https://github.com/pokekarat/MobilePowerViewer/blob/master/AklGraph/data/15.jpg",
+			  "img2":"https://github.com/pokekarat/MobilePowerViewer/blob/master/AklGraph/data/7.jpg",
+			  "img3":"https://github.com/pokekarat/MobilePowerViewer/blob/master/AklGraph/data/4.jpg"
+			}
+		}
+	]
+}
